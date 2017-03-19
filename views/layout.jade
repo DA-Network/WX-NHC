@@ -1,0 +1,20 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    block exHead
+  body
+    div(id="nav")
+      ul
+        li
+          a(id="navitemA" href='/') Home
+        li
+          a(id="navitemA" href='/nws/') NWS Alerts
+        li
+          a(id="navitemA" href='/map/') Map
+        li
+          a(id="navitemA" href='/users/') Login
+      h1#mainTitle DA Severe Weather Alerting System (DASWAS)
+  block content
+div#footer &copy; Copyright 2015 Written exclusively for DigitalAddiction DASWAS - V0.6

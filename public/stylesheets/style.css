@@ -1,0 +1,102 @@
+body {
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0px !important;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1, h3, p{
+  padding-left: 40px;
+}
+h1 {
+  color: #cbcbcb;
+}
+h2 {
+  color: #ebebeb;
+  padding-bottom: 5px;
+  padding-left: 50px;
+}
+#mainTitle {
+  background-color: #3366CC;
+  margin-top:0px;
+  margin-bottom: 0px;
+}
+
+#entriesTable {
+  padding: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+div#nav {
+  width: 100%;
+  background-color: #3366CC;
+}
+
+
+div#nav > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+div#nav > ul > li {
+  float: left;
+}
+
+div#nav > ul > li > a:link, div#nav > ul > li > a:visited {
+  display: block;
+  width: 120px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background-color: #3366CC;
+  text-align: center;
+  padding: 9px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+div#nav > ul > li > a:hover, div#nav > ul > li > a:active {
+  background-color: #1F3D7A;
+}
+
+.navitem {
+  padding-right: 10px;
+}
+
+#map-canvas {
+  height: 600px;
+  text-align: center;
+}
+#map-container {
+  text-align:center;
+  width: 90%;
+  margin: 0 auto 0 auto;
+}
+
+#entryTitle {
+  font-size: 24px;
+  font-weight: bold;
+}
+#entriesTitle {
+  width: 142px;
+  vertical-align: text-top;
+}
+
+#NHC {
+  padding-left: 40px;
+}
+
+
+#footer{
+  width: 100%;
+  background-color: #3366CC;
+  color: #FFF;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}

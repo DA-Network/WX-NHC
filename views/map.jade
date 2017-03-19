@@ -1,0 +1,20 @@
+extends layout
+
+block exHead
+  script(src="https://maps.googleapis.com/maps/api/js?v=3.exp")
+  script.
+    var US = new google.maps.LatLng(37.6006915,-100.9852978);
+    function initialize() {
+    var mapOptions = {
+    zoom: 5,
+    center: US
+    };
+    map = new google.maps.Map(document.getElementById('map-canvas'),
+    mapOptions);
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+block content
+  h2#mainTitle NWS Alert Map - UNDER CONSTRUCTION
+  div#map-container
+    #map-canvas

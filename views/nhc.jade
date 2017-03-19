@@ -1,0 +1,63 @@
+extends layout
+
+block content
+  h2#mainTitle= title
+  block theContent
+  h3 Feed Updated: #{getAllW.feedUpdated}
+  div#entriesTable
+    table
+      tbody
+      each entries in getAllW.entries
+        tr
+          td
+            div#entryTitle= entries.entry.cTitle
+            table
+              tbody
+                tr
+                  td#entriesTitle #[b Description:]
+                  td #{entries.entry.cSummary}
+                tr
+                  td#entriesTitle #[b Updated:] 
+                  td #{entries.entry.cUpdated}
+                tr
+                  td#entriesTitle #[b Published:] 
+                  td #{entries.entry.cUpdated}
+                tr
+                  td#entriesTitle #[b Effective:]
+                  td #{entries.entry.cEffective}
+                tr
+                  td#entriesTitle #[b Expires:] 
+                  td #{entries.entry.cExpires}
+                tr
+                  td#entriesTitle #[b Event:]
+                  td #{entries.entry.cEvent}
+                tr
+                  td#entriesTitle #[b Status:]
+                  td #{entries.entry.cStatus}
+                tr
+                  td#entriesTitle #[b Message Type:]
+                  td #{entries.entry.cMsgType}
+                tr
+                  td#entriesTitle #[b Category:]
+                  td #{entries.entry.cCategory}
+                tr
+                  td#entriesTitle #[b Urgency:]
+                  td #{entries.entry.cUrgency}
+                tr
+                  td#entriesTitle #[b Severity:]
+                  td #{entries.entry.cSeverity}
+                tr
+                  td#entriesTitle #[b Area Description:]
+                  td #{entries.entry.cAreaDesc}
+                tr
+                  td#entriesTitle #[b Polygon:]
+                  td #{entries.entry.cPolygon}
+                tr
+                  td#entriesTitle #[b FIPS6:]
+                  td#entriesTitle #{entries.entry.cFIPS}
+                tr
+                  td#entriesTitle #[b UGC:]
+                  td #{entries.entry.cUGC}
+                tr
+                  td#entriesTitle #[b Link:]
+                  td#entriesTitle #[a(href="#{entries.entry.cID}" target="_blank") Link]
