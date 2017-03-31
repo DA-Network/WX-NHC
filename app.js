@@ -1,30 +1,38 @@
-var express = require('express');
-var path = require('path');
-var favicon = require('serve-favicon');
-var logger = require('morgan');
-var cookieParser = require('cookie-parser');
-var bodyParser = require('body-parser');
+/* 
+* app.js
+* entry point for app
+*
+* WRITTEN FOR DIGITALADDICTION 
+* BY ZYTHER 
+* MAJOR REWRITE 03/16/17
+*/
 
 
+// includes
+
+var express     = require("express"),
+    path        = require("path"),
+    favicon     = require("serve-favicon"),
+    logger      = require("morgan"),
+    cookieP     = require("cookie-parser"),
+    bodyP       = require("body-parser");
+    
+  
+// app-root-dir for static paths relative to the app's root directory
+require("app-root-dir").set(__dirname);
 
 
-var routes = require('./routes/index');
-var nhc = require('./routes/nhc');
-var nws = require('./routes/nws');
-var users = require('./routes/users');
-var map = require('./routes/map');
-
+//start the webserver
 var app = express();
 
-require('app-root-dir').set(__dirname);
+app.use(logger('dev'));
+app.use(bodyP.json());
+app.use(bodyP.urlencoded({ extended: false }));
+app.use(cookieP());
+app.use(express.static(path.join(__dirname, 'public')));
 
-//connect to IRC
-var tIRC = require('./js/irc/iListen');
-
-
-
-//Extend string capabilities
-
+  
+//startswith capabilities   
 if (typeof String.prototype.startsWith != 'function') {
   // see below for better implementation!
   String.prototype.startsWith = function (str){
@@ -33,28 +41,12 @@ if (typeof String.prototype.startsWith != 'function') {
 }
 
 
+// connect to IRC
+var ircClient = require("./js/irc/wrapper");
 
-//express stuff
+app.set("views", path.join(__dirname, 'views'));
+app.set("view engine", "ejs");
 
-// view engine setup
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'jade');
-
-// uncomment after placing your favicon in /public
-//app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
-app.use(logger('dev'));
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
-
-
-// Website routes
-app.use('/', routes);
-app.use('/users', users);
-app.use('/nws', nws);
-app.use('/nhc', nhc);
-app.use('/map', map);
 
 
 
@@ -78,6 +70,7 @@ if (app.get('env') === 'development') {
     });
   });
 }
+
 
 // production error handler
 // no stacktraces leaked to user

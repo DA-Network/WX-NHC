@@ -33,6 +33,12 @@ function getLatLong(zip, cb){
         return cb(e);
     });
 
+
+
+
+    
+
+
 }
 
 function getForecast(zip, cb) {

@@ -1,18 +1,41 @@
-var fs = require('fs'),
-    gStatic = require('../getStatic');
-	var ard = require("app-root-dir").get();
-var theFile = ard + "/tmp/my.json";
-function getAll () {
-    console.log('Getting all...');
-    var tStatic = gStatic.fStatic();
-    var obj = JSON.parse(fs.readFileSync(theFile));
+var tStatic = require("../../json/static.js"),
+    fs      = require("fs");
+
+exports.getAll = function() {
+    console.log("Getting all...");
+    
     var ret = [];
-    for (i in obj.entries) {
-        if (obj.entries[i].entry.cSeverity.toString() == "Severe"){
-            ret.push("UGC: " + obj.entries[i].entry.cUGC + ' ' +  obj.entries[i].entry.cSummary + '  Expires: ' + obj.entries[i].entry.cExpires);
+    
+    var tFile = tStatic.files.localcap().toString();
+    
+    try {
+    
+        var obj = JSON.parse(fs.readFileSync(tFile));
+        
+        for (var i in obj.entries) {
+            
+                if (obj.entries[i].entry.cSeverity.toString() === "Severe") {
+                    
+                    ret.push(
+                        "UGC: " + obj.entries[i].entry.cUGC + ' ' +  
+                        obj.entries[i].entry.cSummary + 
+                        '  Expires: ' + obj.entries[i].entry.cExpires
+                    );
+                    
+                }
+                
         }
+        
+        ret.push("End of all alerts.");
+        
+        return(ret);
+        
+    } catch (ex) {
+        
+        ret.push("error getting all alerts.");
+        
+        console.error(ex);
+        
+        return ret;
     }
-    ret.push('End of all alerts.');
-    return(ret);
-}
-exports.getAll = getAll;
+};

@@ -1,0 +1,4847 @@
+{
+    "feedUpdated": [
+        "2017-03-18T20:45:00-06:00"
+    ],
+    "entries": [
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=AK125844B31B28.WinterWeatherAdvisory.125844B4C680AK.AJKWSWAJK.09645eef6c31c363fc33e3110716f9b3"
+                ],
+                "cUpdated": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Winter Weather Advisory issued March 18 at 5:06PM AKDT until March 19 at 4:00AM AKDT by NWS"
+                ],
+                "cSummary": [
+                    "...WINTER WEATHER ADVISORY REMAINS IN EFFECT UNTIL 4 AM AKDT SUNDAY... * LOCATION...The area around Behm Canal including Ketchikan and Metlakatla. * SNOW...2 to 5 inches. * TIMING...Snow showers will spread northeast Saturday evening"
+                ],
+                "cEvent": [
+                    "Winter Weather Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T04:00:00-08:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Southern Inner Channels"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "002130 002198 002275",
+                "cUGC": "AKZ028",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=AK125844B31B28.WinterWeatherAdvisory.125844C39390AK.AJKWSWAJK.aa30893b0dc7aa45a821a4b3beaa7890"
+                ],
+                "cUpdated": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Winter Weather Advisory issued March 18 at 5:06PM AKDT until March 20 at 1:00AM AKDT by NWS"
+                ],
+                "cSummary": [
+                    "...WINTER WEATHER ADVISORY NOW IN EFFECT FROM 4 AM SUNDAY TO 1 AM AKDT MONDAY... * LOCATION...Northeast gulf coast. * SNOW...4 to 8 inches. * TIMING...Snow begins early Sunday morning and lasts into Sunday night. Snow may mix with rain Sunday afternoon."
+                ],
+                "cEvent": [
+                    "Winter Weather Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T01:00:00-08:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Salisbury Sound to Cape Fairweather Coastal Area"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "002105 002220",
+                "cUGC": "AKZ022",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=AK125844B31B28.WinterWeatherAdvisory.125844C408C0AK.AJKWSWAJK.846ab49529dff41cdcebd045339b331e"
+                ],
+                "cUpdated": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Winter Weather Advisory issued March 18 at 5:06PM AKDT until March 20 at 4:00AM AKDT by NWS"
+                ],
+                "cSummary": [
+                    "...WINTER WEATHER ADVISORY NOW IN EFFECT FROM 4 AM SUNDAY TO 4 AM AKDT MONDAY... * LOCATION...Yakutat. * SNOW...6 to 12 inches. * TIMING...Snow begins early Sunday morning and lasts into late Sunday night. Snow may mix with rain Sunday afternoon."
+                ],
+                "cEvent": [
+                    "Winter Weather Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T04:00:00-08:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Cape Fairweather to Cape Suckling Coastal Area"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "002105 002282",
+                "cUGC": "AKZ017",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=AK125844B31B28.WinterWeatherAdvisory.125844D17640AK.AJKWSWAJK.96b79b2b7b8baecb0667f7ae8b67be7a"
+                ],
+                "cUpdated": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Winter Weather Advisory issued March 18 at 5:06PM AKDT until March 20 at 4:00PM AKDT by NWS"
+                ],
+                "cSummary": [
+                    "...WINTER WEATHER ADVISORY REMAINS IN EFFECT FROM 4 PM SUNDAY TO 4 PM AKDT MONDAY... * LOCATION...Northern Lynn Canal including Skagway and Haines. * SNOW...6 to 8 inches. * TIMING...Snow will increase Sunday afternoon and then continue overnight into Monday."
+                ],
+                "cEvent": [
+                    "Winter Weather Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T17:06:00-08:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T16:00:00-08:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Haines Borough and Lynn Canal; Taiya Inlet and Klondike Highway"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "002100 002105 002110 002230",
+                "cUGC": "AKZ018 AKZ019",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=AR125844B327A8.FloodWarning.125844D17640AR.LZKFLWLZK.704f9439c3f6f0df4761bf78127429a7"
+                ],
+                "cUpdated": [
+                    "2017-03-18T20:38:00-05:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T20:38:00-05:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 8:38PM CDT until March 20 at 7:00PM CDT by NWS"
+                ],
+                "cSummary": [
+                    "...The National Weather Service in Little Rock has issued a Flood Warning for the following rivers in Arkansas... Cache River Near Patterson affecting Woodruff and Jackson Counties River forecasts are based on current conditions and rainfall forecasted to occur over the next 24 hours. During periods of flooding...Evening forecasts are reissued with updated rainfall"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T20:38:00-05:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T19:00:00-05:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Jackson; Woodruff"
+                ],
+                "cPolygon": [
+                    "35.1,-91.33 35.22,-91.28 35.39,-91.23 35.38,-91.13 35.21,-91.17 35.08,-91.22 35.1,-91.33"
+                ],
+                "cFIPS": "005067 005147",
+                "cUGC": "ARC067 ARC147",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=CA125844961D48.FloodAdvisory.125844B67FE8CA.HNXFLSHNX.3d1141353ac011e9746ccd731adb445d"
+                ],
+                "cUpdated": [
+                    "2017-03-17T04:06:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-17T04:06:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 17 at 4:06AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Hanford CA has extended the * Flood Advisory for... A Dam Floodgate Release in... South central Madera County in central California... Northwestern Fresno County in central California... * Until 430 PM PDT Sunday"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-17T04:06:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T16:30:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Fresno; Madera"
+                ],
+                "cPolygon": [
+                    "36.99,-119.72 36.97,-119.7 36.96,-119.72 36.93,-119.73 36.9,-119.76 36.88,-119.77 36.84,-119.8 36.84,-119.86 36.83,-119.92 36.81,-120.01 36.81,-120.06 36.79,-120.15 36.77,-120.19 36.76,-120.24 36.77,-120.32 36.8,-120.32 36.79,-120.26 36.8,-120.19 36.84,-120.07 36.84,-120.02 36.85,-119.97 36.86,-119.93 36.87,-119.88 36.87,-119.82 36.88,-119.81 36.91,-119.8 36.93,-119.78 36.94,-119.76 36.98,-119.74 36.99,-119.72"
+                ],
+                "cFIPS": "006019 006039",
+                "cUGC": "CAC019 CAC039",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=CO125844B35174.RedFlagWarning.125844C28220CO.PUBRFWPUB.5b271a943151d038bc88aaf438c6696b"
+                ],
+                "cUpdated": [
+                    "2017-03-18T20:45:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T20:45:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Red Flag Warning issued March 18 at 8:45PM MDT until March 19 at 8:00PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...A RED FLAG WARNING HAS BEEN ISSUED FROM 11 AM UNTIL 8 PM SUNDAY FOR GUSTY WINDS...LOW RELATIVE HUMIDITY AND DRY FUELS FOR FIRE WEATHER ZONES...222...228 and 229...WHICH INCLUDES PUEBLO...FREMONT AND HUERFANO COUNTIES... ...RED FLAG WARNING IN EFFECT FROM 11 AM TO 8 PM MDT SUNDAY FOR GUSTY WINDS AND LOW RELATIVE HUMIDITY FOR FIRE WEATHER ZONES"
+                ],
+                "cEvent": [
+                    "Red Flag Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T20:45:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Severe"
+                ],
+                "cAreaDesc": [
+                    "Fremont County Including Canon City, Howard, Texas Creek; Huerfano County Including Walsenburg; Pueblo County Including Pueblo"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "008041 008043 008055 008071 008101 008119",
+                "cUGC": "COZ222 COZ228 COZ229",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=CO125844B34A6C.FireWeatherWatch.125844C25B10CO.GLDRFWGLD.a336a792f42289e04f8df30710f5ed94"
+                ],
+                "cUpdated": [
+                    "2017-03-18T20:27:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T20:27:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Fire Weather Watch issued March 18 at 8:27PM MDT until March 19 at 7:00PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...FIRE WEATHER WATCH REMAINS IN EFFECT FROM SUNDAY AFTERNOON THROUGH SUNDAY EVENING FOR WIND AND LOW RELATIVE HUMIDITY FOR FIRE WEATHER ZONES 079 AND 252... * Affected Area...In Colorado...Fire Weather Zone 252 Yuma. In Nebraska...Fire Weather Zone 079 Dundy. * Winds...Northwest 10 to 20 mph with gusts up to 30 mph."
+                ],
+                "cEvent": [
+                    "Fire Weather Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T20:27:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T19:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Yuma"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "008125",
+                "cUGC": "COZ252",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=CO125844A67864.FireWeatherWatch.125844C25B10CO.BOURFWBOU.d90801a07ddf38282c00e71e49853e33"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:25:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:25:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Fire Weather Watch issued March 18 at 12:25PM MDT until March 19 at 7:00PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...Very High Fire Danger Across Northeast Colorado Sunday... .A Red Flag Warning has been issued from noon Sunday into Sunday evening for very warm, very dry and windy conditions over the northern border foothills and plains. Farther south, including the plains from Denver and Greeley east to around Deer Trail and Akron, winds are expected to be a little lighter at this time so"
+                ],
+                "cEvent": [
+                    "Fire Weather Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:25:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T19:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Boulder And Jefferson Counties Below 6000 Feet, West Broomfield County; Central and East Adams and Arapahoe Counties; Central and South Weld County; Morgan County; North Douglas County Below 6000 Feet, Denver, West Adams and Arapahoe Counties, East Broomfield County; Washington County"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "008001 008005 008013 008014 008031 008035 008059 008087 008121 008123",
+                "cUGC": "COZ239 COZ240 COZ243 COZ244 COZ245 COZ249",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=CO125844A67864.RedFlagWarning.125844C25B10CO.BOURFWBOU.8d58725d8a803a68e44342db7f5d597c"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:25:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:25:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Red Flag Warning issued March 18 at 12:25PM MDT until March 19 at 7:00PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...Very High Fire Danger Across Northeast Colorado Sunday... .A Red Flag Warning has been issued from noon Sunday into Sunday evening for very warm, very dry and windy conditions over the northern border foothills and plains. Farther south, including the plains from Denver and Greeley east to around Deer Trail and Akron, winds are expected to be a little lighter at this time so"
+                ],
+                "cEvent": [
+                    "Red Flag Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:25:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T19:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Severe"
+                ],
+                "cAreaDesc": [
+                    "Larimer County Below 6000 Feet, Northwest Weld County; Larimer and Boulder Counties Between 6000 and 9000 Feet; Logan County; Northeast Weld County; Phillips County; Sedgwick County"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "008013 008069 008075 008095 008115 008123",
+                "cUGC": "COZ215 COZ238 COZ242 COZ248 COZ250 COZ251",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=GU125844A6BD88.HighSurfAdvisory.125844B5FF00GU.GUMCFWMY.08765c5584e64f0792c44b55250a0a2a"
+                ],
+                "cUpdated": [
+                    "2017-03-19T06:02:00+10:00"
+                ],
+                "cPublished": [
+                    "2017-03-19T06:02:00+10:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "High Surf Advisory issued March 19 at 6:02AM ChST until March 20 at 6:00AM ChST by NWS"
+                ],
+                "cSummary": [
+                    "...LARGE NORTH SWELL CONTINUE WITHIN THE MARIANAS WATERS... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 6 AM CHST MONDAY... ALONG NORTH FACING SHORES...HAZARDOUS SURF OF 10 TO 12 FEET IS EXPECTED TODAY. SURF WILL BEGIN TO DIMINISH TONIGHT AND COULD FALL BELOW HAZARDOUS LEVELS EARLY MONDAY MORNING."
+                ],
+                "cEvent": [
+                    "High Surf Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-19T06:02:00+10:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T06:00:00+10:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Guam; Rota; Saipan; Tinian"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "066010 069100 069110 069120",
+                "cUGC": "GUZ001 GUZ002 GUZ003 GUZ004",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844B30804.FloodWarning.125844C24A44ID.OTXFLSOTX.1ab0c463fbce6fa5ca7f95d5394b9559"
+                ],
+                "cUpdated": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 6:57PM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The flood warning continues for the following rivers and lakes in Idaho...Washington... Coeur d Alene River at Cataldo AFFECTING Kootenai and Shoshone Counties Little Spokane River at Dartford AFFECTING Spokane County Palouse River near Potlatch AFFECTING Latah and Whitman Counties"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T18:57:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Benewah"
+                ],
+                "cPolygon": [
+                    "47.01,-116.27 47.17,-116.63 47.28,-116.68 47.4,-116.65 47.35,-116.32 47.01,-116.27"
+                ],
+                "cFIPS": "016009",
+                "cUGC": "IDC009",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844B30804.FloodWarning.125844C24A44ID.OTXFLSOTX.a92c77565820f4f1ac6027c7b4bf04cb"
+                ],
+                "cUpdated": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 6:57PM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The flood warning continues for the following rivers and lakes in Idaho...Washington... Coeur d Alene River at Cataldo AFFECTING Kootenai and Shoshone Counties Little Spokane River at Dartford AFFECTING Spokane County Palouse River near Potlatch AFFECTING Latah and Whitman Counties"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T18:57:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Benewah; Kootenai"
+                ],
+                "cPolygon": [
+                    "47.73,-116.94 47.71,-116.56 47.33,-116.67 47.3,-116.96 47.73,-116.94 47.73,-116.94"
+                ],
+                "cFIPS": "016009 016055",
+                "cUGC": "IDC009 IDC055",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844B30804.FloodWarning.125844C4855CID.OTXFLSOTX.4eb2d4623c9fd9aba1b8b8498129563d"
+                ],
+                "cUpdated": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 6:57PM MDT until March 20 at 9:19AM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...The flood warning continues for the following rivers and lakes in Idaho...Washington... Coeur d Alene River at Cataldo AFFECTING Kootenai and Shoshone Counties Little Spokane River at Dartford AFFECTING Spokane County Palouse River near Potlatch AFFECTING Latah and Whitman Counties"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T09:19:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Latah"
+                ],
+                "cPolygon": [
+                    "46.88,-116.7 46.87,-116.98 46.86,-117.22 46.97,-117.23 46.98,-116.74 46.88,-116.7"
+                ],
+                "cFIPS": "016057",
+                "cUGC": "IDC057",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844B30804.FloodWarning.125844D2BCD0ID.OTXFLSOTX.13be763b28ff8b4ac123e6f69b68772c"
+                ],
+                "cUpdated": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 6:57PM MDT until March 21 at 2:36AM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...The flood warning continues for the following rivers and lakes in Idaho...Washington... Coeur d Alene River at Cataldo AFFECTING Kootenai and Shoshone Counties Little Spokane River at Dartford AFFECTING Spokane County Palouse River near Potlatch AFFECTING Latah and Whitman Counties"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T18:57:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-21T02:36:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Kootenai; Shoshone"
+                ],
+                "cPolygon": [
+                    "47.52,-116.2 47.42,-116.73 47.5,-116.8 47.64,-116.26 47.52,-116.2 47.52,-116.2"
+                ],
+                "cFIPS": "016055 016079",
+                "cUGC": "IDC055 IDC079",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844B2F4E0.FloodAdvisory.125844B47FCCID.PIHFLSPIH.b6fd7bf317b20f9618a933a21b73d21c"
+                ],
+                "cUpdated": [
+                    "2017-03-18T18:08:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T18:08:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 6:08PM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Pocatello has extended the * Flood Advisory for... Snowmelt in... East central Oneida County in southeastern Idaho... * Until 130 PM MDT Sunday * At 603 PM MDT, local law enforcement reported snowmelt causing"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T18:08:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T04:19:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Oneida"
+                ],
+                "cPolygon": [
+                    "42.34,-112.19 42.28,-112.15 42.28,-112.13 42.24,-112.08 42.18,-112.08 42.18,-112.11 42.19,-112.18 42.2,-112.27 42.3,-112.29 42.34,-112.25 42.34,-112.19"
+                ],
+                "cFIPS": "016071",
+                "cUGC": "IDC071",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A7124C.FloodWarning.125844B47FCCID.OTXFLWOTX.fcd8d91959179218093a38996b5b3fb7"
+                ],
+                "cUpdated": [
+                    "2017-03-18T16:19:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T16:19:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 4:19PM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The National Weather Service in Spokane has issued a flood warning for the following rivers and lakes in Idaho...Washington... Paradise Creek at Moscow AFFECTING Latah and Whitman Counties ...Bands of heavy rain showers and isolated thunderstorms is expected to push Paradise Creek to near flood stage this afternoon... The National Weather Service in Spokane, WA has issued a"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T16:19:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T04:19:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Latah"
+                ],
+                "cPolygon": [
+                    "46.82,-117.04 46.83,-116.73 46.65,-116.72 46.65,-117.04 46.82,-117.04 46.82,-117.04"
+                ],
+                "cFIPS": "016057",
+                "cUGC": "IDC057",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A6C9A4.FloodAdvisory.125844B48224ID.MSOFLSMSO.9e5fe08ffb7ceb0cc861a62798679d28"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:33:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:33:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 2:33PM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...THE URBAN AND SMALL STREAM FLOOD ADVISORY FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL MIDNIGHT MDT MONDAY/1100 PM PDT SUNDAY/ FOR NORTHEASTERN IDAHO...CLEARWATER AND NORTHWESTERN RAVALLI COUNTIES... Doppler radar and automated rain gauges indicate continued rain across the advised area. Up to two inches of rain has already fallen in the mountains with around half an inch in the valleys such as"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:33:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T04:25:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Clearwater; Idaho"
+                ],
+                "cPolygon": [
+                    "46.63,-116.41 46.64,-116.33 46.94,-116.33 46.92,-114.92 46.86,-114.94 46.76,-114.76 46.7,-114.77 46.74,-114.67 46.64,-114.61 46.64,-114.35 46.16,-114.51 45.97,-115.37 45.92,-115.89 46.1,-116.1 46.23,-116 46.31,-116.14 46.41,-116.19 46.41,-116.3 46.5,-116.37 46.5,-116.45 46.63,-116.41"
+                ],
+                "cFIPS": "016035 016049",
+                "cUGC": "IDC035 IDC049",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A6A99C.FloodWarning.125844B47FCCID.OTXFLSOTX.1df07d599ab1fca41f391df0f621c01e"
+                ],
+                "cUpdated": [
+                    "2017-03-18T13:51:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T13:51:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 1:51PM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 1215 PM PDT SUNDAY FOR NEZ PERCE...SHOSHONE...LEWIS...BENEWAH... KOOTENAI...LATAH...BONNER...BOUNDARY...GARFIELD...FERRY...SPOKANE... NORTHEASTERN OKANOGAN...WHITMAN...STEVENS...ASOTIN AND PEND OREILLE COUNTIES... * Recent rain and snow melt will result in increased runoff with"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T13:51:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T04:19:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Lewis; Nez Perce"
+                ],
+                "cPolygon": [
+                    "45.86,-116.79 46,-116.92 46,-117.59 46.62,-117.85 46.59,-118.21 46.87,-117.97 47.26,-117.96 47.26,-117.82 47.83,-117.82 47.93,-118.83 49,-118.84 48.99,-116.05 47.98,-116.05 47.7,-115.72 47.43,-115.75 46.94,-114.98 46.93,-116.33 46.5,-116.45 46.23,-116.01 46.2,-116.44 45.86,-116.79"
+                ],
+                "cFIPS": "016061 016069",
+                "cUGC": "IDC061 IDC069",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A6A99C.FloodWarning.125844C24A44ID.OTXFLSOTX.0bc74086b57198f5c4eb64d7a63e9d86"
+                ],
+                "cUpdated": [
+                    "2017-03-18T13:51:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T13:51:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 1:51PM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 1215 PM PDT SUNDAY FOR NEZ PERCE...SHOSHONE...LEWIS...BENEWAH... KOOTENAI...LATAH...BONNER...BOUNDARY...GARFIELD...FERRY...SPOKANE... NORTHEASTERN OKANOGAN...WHITMAN...STEVENS...ASOTIN AND PEND OREILLE COUNTIES... * Recent rain and snow melt will result in increased runoff with"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T13:51:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T18:57:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Benewah; Bonner; Boundary"
+                ],
+                "cPolygon": [
+                    "45.86,-116.79 46,-116.92 46,-117.59 46.62,-117.85 46.59,-118.21 46.87,-117.97 47.26,-117.96 47.26,-117.82 47.83,-117.82 47.93,-118.83 49,-118.84 48.99,-116.05 47.98,-116.05 47.7,-115.72 47.43,-115.75 46.94,-114.98 46.93,-116.33 46.5,-116.45 46.23,-116.01 46.2,-116.44 45.86,-116.79"
+                ],
+                "cFIPS": "016009 016017 016021",
+                "cUGC": "IDC009 IDC017 IDC021",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A6A99C.FloodWarning.125844C4855CID.OTXFLSOTX.fbc889ae70a476254e9b357b70ace76e"
+                ],
+                "cUpdated": [
+                    "2017-03-18T13:51:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T13:51:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 1:51PM MDT until March 20 at 9:19AM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 1215 PM PDT SUNDAY FOR NEZ PERCE...SHOSHONE...LEWIS...BENEWAH... KOOTENAI...LATAH...BONNER...BOUNDARY...GARFIELD...FERRY...SPOKANE... NORTHEASTERN OKANOGAN...WHITMAN...STEVENS...ASOTIN AND PEND OREILLE COUNTIES... * Recent rain and snow melt will result in increased runoff with"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T13:51:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T09:19:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Latah"
+                ],
+                "cPolygon": [
+                    "45.86,-116.79 46,-116.92 46,-117.59 46.62,-117.85 46.59,-118.21 46.87,-117.97 47.26,-117.96 47.26,-117.82 47.83,-117.82 47.93,-118.83 49,-118.84 48.99,-116.05 47.98,-116.05 47.7,-115.72 47.43,-115.75 46.94,-114.98 46.93,-116.33 46.5,-116.45 46.23,-116.01 46.2,-116.44 45.86,-116.79"
+                ],
+                "cFIPS": "016057",
+                "cUGC": "IDC057",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A6A870.FloodWatch.125844D2BCD0ID.PIHFFAPIH.aa6a603b1ac1404575465972a90b3d46"
+                ],
+                "cUpdated": [
+                    "2017-03-18T13:48:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T13:48:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Watch issued March 18 at 1:48PM MDT until March 21 at 2:36AM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...FLOOD WATCH REMAINS IN EFFECT THROUGH MONDAY MORNING... The Flood Watch continues for * Portions of central Idaho, eastern Idaho, south central Idaho, and southeast Idaho, including the following areas, in central Idaho, Big and Little Wood River Region. In eastern Idaho, Upper Snake Highlands. In south central Idaho, Eastern Magic"
+                ],
+                "cEvent": [
+                    "Flood Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T13:48:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-21T02:36:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Big and Little Wood River Region; Cache Valley, Idaho Portion; Caribou Highlands; Eastern Magic Valley; Lower Snake River Plain; South Central Highlands; Upper Snake Highlands; Wasatch Mountains, Idaho Portion"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "016005 016007 016011 016013 016019 016029 016031 016033 016041 016043 016063 016065 016067 016071 016077 016081",
+                "cUGC": "IDZ017 IDZ019 IDZ021 IDZ022 IDZ023 IDZ024 IDZ025 IDZ031",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A6A03C.FloodAdvisory.125844C24A44ID.PIHFLSPIH.43b7cfa9ae2acab5a93e29297a0a2534"
+                ],
+                "cUpdated": [
+                    "2017-03-18T13:27:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T13:27:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 1:27PM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Pocatello has extended the * Flood Advisory for... Snowmelt in... Central Blaine County in central Idaho... * Until 215 PM MDT Sunday * At 125 PM MDT, minor flooding was continuing near Carey and"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T13:27:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T18:57:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Blaine"
+                ],
+                "cPolygon": [
+                    "43.35,-114.4 43.36,-114.18 43.31,-113.98 43.35,-113.97 43.35,-113.89 43.2,-113.9 43.2,-114.38 43.26,-114.37 43.26,-114.39 43.35,-114.4"
+                ],
+                "cFIPS": "016013",
+                "cUGC": "IDC013",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A67670.FloodWarning.125844B5B8B0ID.PIHFLSPIH.960b4920b9b4fc574dc34374e96c42fa"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:20:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:20:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:20PM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The Flood Warning continues for the following Rivers in Idaho.. Portneuf River at Pocatello AFFECTING Bannock County For the Portneuf River...including Portneuf River at Pocatello... Minor Flooding is occurring...with Moderate Flooding forecast. The Flood Warning continues for The Portneuf River at Pocatello."
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:20:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T12:20:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Bannock"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "016005",
+                "cUGC": "IDC005",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A65DD4.FloodAdvisory.125844B48224ID.PIHFLSPIH.f176f68b3f5df7bb897a6a175c2a028b"
+                ],
+                "cUpdated": [
+                    "2017-03-18T11:57:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T11:57:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 11:57AM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Pocatello has issued a * Flood Advisory for... Snowmelt in... Northeastern Caribou County in southeastern Idaho... * Until noon MDT Sunday * At 1154 AM MDT, snowmelt was continuing to cause minor flooding in"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T11:57:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T04:25:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Caribou"
+                ],
+                "cPolygon": [
+                    "43.01,-111.05 42.92,-111.05 42.92,-111.41 42.87,-111.56 43.01,-111.57 43.01,-111.05"
+                ],
+                "cFIPS": "016029",
+                "cUGC": "IDC029",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A65BE0.FloodAdvisory.125844C24A44ID.PIHFLSPIH.1e57a4ccd46fa1f3401d5c314a37d711"
+                ],
+                "cUpdated": [
+                    "2017-03-18T11:52:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T11:52:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 11:52AM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Pocatello has extended the * Flood Advisory for... Snowmelt in... Southwestern Bingham County in southeastern Idaho... * Until noon MDT Sunday * At 1151 AM MDT, minor flooding was continuing in fields and low"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T11:52:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T18:57:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Bingham"
+                ],
+                "cPolygon": [
+                    "43.21,-112.42 43.01,-112.74 42.92,-112.8 42.91,-112.91 43.37,-112.71 43.21,-112.42"
+                ],
+                "cFIPS": "016011",
+                "cUGC": "IDC011",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A65A50.FloodAdvisory.125844B5B8B0ID.PIHFLSPIH.23e019e5801fb801ed46d6d3d9eb3d1b"
+                ],
+                "cUpdated": [
+                    "2017-03-18T11:48:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T11:48:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 11:48AM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Pocatello has extended the * Flood Advisory for... Snowmelt in... Southeastern Bear Lake County in southeastern Idaho... * Until noon MDT Sunday * At 1144 AM MDT, snowmelt is continuing to cause minor flooding"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T11:48:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T12:20:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Bear Lake"
+                ],
+                "cPolygon": [
+                    "42.09,-111.05 42.1,-111.16 42.15,-111.27 42.17,-111.36 42,-111.4 42,-111.46 42.23,-111.44 42.3,-111.42 42.35,-111.38 42.36,-111.29 42.27,-111.27 42.25,-111.05 42.09,-111.05"
+                ],
+                "cFIPS": "016007",
+                "cUGC": "IDC007",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID125844A62A44.FloodWarning.125844B48224ID.BOIFLSBOI.311ee94e3560aec62d22833f43deb6fc"
+                ],
+                "cUpdated": [
+                    "2017-03-18T10:25:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T10:25:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 10:25AM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The Flood Warning is cancelled for the following rivers in Idaho... Weiser River Near Weiser affecting Washington County. ...The Flood Warning continues for the following rivers in Idaho.. Boise River At Glenwood Bridge affecting Ada and Canyon Counties. .The Weiser River is no longer forecast to flood today but will"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T10:25:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T04:25:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Ada; Canyon"
+                ],
+                "cPolygon": [
+                    "43.66,-116.1 43.53,-116.13 43.74,-117.02 43.86,-116.99 43.66,-116.1"
+                ],
+                "cFIPS": "016001 016027",
+                "cUGC": "IDC001 IDC027",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID12584496A27C.FloodAdvisory.125844B48224ID.BOIFLSBOI.210bac940dc2f93c233bfd6babcef423"
+                ],
+                "cUpdated": [
+                    "2017-03-17T08:47:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-17T08:47:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 17 at 8:47AM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Boise has issued a * Small Stream Flood Advisory for... Snowmelt in... Boise County in southwestern Idaho... Valley County in southwestern Idaho... Northeastern Elmore County in southwestern Idaho..."
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-17T08:47:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T04:25:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Adams; Elmore; Gem"
+                ],
+                "cPolygon": [
+                    "45.13,-116.28 45.11,-116.3 45.2,-114.7 44.88,-114.73 44.61,-115.28 44.34,-115.3 43.28,-114.46 43.27,-115.61 43.81,-116.28 43.86,-116.72 44.15,-116.45 44.15,-116.9 44.16,-116.89 44.44,-117.6 44.26,-118.5 44.59,-118.3 44.71,-118.48 45.05,-118.13 45.08,-116.79 45.27,-116.69 45.13,-116.28"
+                ],
+                "cFIPS": "016003 016039 016045",
+                "cUGC": "IDC003 IDC039 IDC045",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID12584496A27C.FloodAdvisory.125844C24A44ID.BOIFLSBOI.d7c0b0f70c79057f722c192d1f13ecaf"
+                ],
+                "cUpdated": [
+                    "2017-03-17T08:47:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-17T08:47:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 17 at 8:47AM MDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Boise has issued a * Small Stream Flood Advisory for... Snowmelt in... Boise County in southwestern Idaho... Valley County in southwestern Idaho... Northeastern Elmore County in southwestern Idaho..."
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-17T08:47:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T18:57:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Boise; Camas"
+                ],
+                "cPolygon": [
+                    "45.13,-116.28 45.11,-116.3 45.2,-114.7 44.88,-114.73 44.61,-115.28 44.34,-115.3 43.28,-114.46 43.27,-115.61 43.81,-116.28 43.86,-116.72 44.15,-116.45 44.15,-116.9 44.16,-116.89 44.44,-117.6 44.26,-118.5 44.59,-118.3 44.71,-118.48 45.05,-118.13 45.08,-116.79 45.27,-116.69 45.13,-116.28"
+                ],
+                "cFIPS": "016015 016025",
+                "cUGC": "IDC015 IDC025",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=ID12584496A27C.FloodAdvisory.125844D2BCD0ID.BOIFLSBOI.4c19a1087fa9cbe98c4884027e8c3c4f"
+                ],
+                "cUpdated": [
+                    "2017-03-17T08:47:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-17T08:47:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 17 at 8:47AM MDT until March 21 at 2:36AM MDT by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Boise has issued a * Small Stream Flood Advisory for... Snowmelt in... Boise County in southwestern Idaho... Valley County in southwestern Idaho... Northeastern Elmore County in southwestern Idaho..."
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-17T08:47:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-21T02:36:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Valley; Washington"
+                ],
+                "cPolygon": [
+                    "45.13,-116.28 45.11,-116.3 45.2,-114.7 44.88,-114.73 44.61,-115.28 44.34,-115.3 43.28,-114.46 43.27,-115.61 43.81,-116.28 43.86,-116.72 44.15,-116.45 44.15,-116.9 44.16,-116.89 44.44,-117.6 44.26,-118.5 44.59,-118.3 44.71,-118.48 45.05,-118.13 45.08,-116.79 45.27,-116.69 45.13,-116.28"
+                ],
+                "cFIPS": "016085 016087",
+                "cUGC": "IDC085 IDC087",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MA125844A67864.HighWindWatch.125844C23400MA.BOXNPWBOX.8de22da98c6e8284ce0cef79f5553763"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:25:00-04:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:25:00-04:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "High Wind Watch issued March 18 at 2:25PM EDT until March 19 at 8:00PM EDT by NWS"
+                ],
+                "cSummary": [
+                    "...HIGH WIND WATCH NOW IN EFFECT FROM SUNDAY MORNING THROUGH SUNDAY EVENING... * Location...Nantucket. * Winds...North 30 to 35 mph with gusts between 50 and 60 mph. * Timing...Winds will increase Sunday with the strongest gusts occurring during the mid-morning into the afternoon hours."
+                ],
+                "cEvent": [
+                    "High Wind Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:25:00-04:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-04:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Severe"
+                ],
+                "cAreaDesc": [
+                    "Nantucket"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "025019",
+                "cUGC": "MAZ024",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MA125844A67864.WindAdvisory.125844C23400MA.BOXNPWBOX.c4e713a5b7b7f2fc8e2d5fd5aecc3b25"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:25:00-04:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:25:00-04:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Wind Advisory issued March 18 at 2:25PM EDT until March 19 at 8:00PM EDT by NWS"
+                ],
+                "cSummary": [
+                    "...WIND ADVISORY IN EFFECT FROM 10 AM TO 8 PM EDT SUNDAY... The National Weather Service in Taunton has issued a Wind Advisory, which is in effect from 10 AM to 8 PM EDT Sunday. The High Wind Watch is no longer in effect. * Location...Cape Cod and Marthas Vineyard. * Winds...Northeast 20 to 30 mph with gusts up to 50 mph."
+                ],
+                "cEvent": [
+                    "Wind Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:25:00-04:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-04:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Barnstable; Dukes"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "025001 025007",
+                "cUGC": "MAZ022 MAZ023",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844B3299C.FloodWatch.125844B60AB8MT.MSOFFAMSO.428a22b811bec9d054f4acb5d1066b93"
+                ],
+                "cUpdated": [
+                    "2017-03-18T19:43:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T19:43:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Watch issued March 18 at 7:43PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...FLOOD WATCH IN EFFECT THROUGH MONDAY AFTERNOON... The National Weather Service in Missoula has issued a * Flood Watch for Fisher River Near Libby and Yaak River Near Troy through Monday afternoon. * Forecast information for Fisher River Near Libby."
+                ],
+                "cEvent": [
+                    "Flood Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T19:43:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Kootenai, Cabinet Region"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "030029 030053 030089",
+                "cUGC": "MTZ001",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844B323C0.FloodAdvisory.125844B60AB8MT.GGWFLSGGW.9c41785b7ca84e15791e11452b72d200"
+                ],
+                "cUpdated": [
+                    "2017-03-18T19:28:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T19:28:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 7:28PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Glasgow has issued a * Flood Advisory for... An Ice Jam in... Northwestern Valley County in northeastern Montana... * Until 730 PM MDT Monday * At 723 PM MDT, Emergency Management reported an ice jam causing"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T19:28:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Valley"
+                ],
+                "cPolygon": [
+                    "49,-106.62 48.43,-106.91 48.33,-106.77 48.27,-106.84 48.38,-107.13 49,-107.18 49,-106.62"
+                ],
+                "cFIPS": "030105",
+                "cUGC": "MTC105",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844B318D0.FloodAdvisory.125844B60AB8MT.GGWFLSGGW.f71859498b5219db04b3d89fd9a1dc7d"
+                ],
+                "cUpdated": [
+                    "2017-03-18T19:00:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T19:00:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 7:00PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Glasgow has extended the * Flood Advisory for Minor Flooding in Poor Drainage Areas for... Snowmelt in... Daniels County in northeastern Montana... * Until 930 AM MDT Monday * At 657 PM MDT, local law enforcement reported snowmelt causing"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T19:00:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Daniels"
+                ],
+                "cPolygon": [
+                    "48.91,-105.06 48.91,-105.04 48.65,-105.04 48.65,-104.97 48.57,-104.97 48.56,-106.02 48.82,-106.02 48.83,-106.15 48.91,-106.15 48.91,-106.11 49,-106.11 49,-105.06 48.91,-105.06"
+                ],
+                "cFIPS": "030019",
+                "cUGC": "MTC019",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A73A24.FloodWarning.125844B60AB8MT.GGWFLSGGW.a9d2da7a2fa15a716891999f2b3390b8"
+                ],
+                "cUpdated": [
+                    "2017-03-18T17:21:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T17:21:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 5:21PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR SMALL STREAMS FOR SNOWMELT REMAINS IN EFFECT UNTIL 730 AM MDT MONDAY FOR SOUTH CENTRAL SHERIDAN COUNTY... At 518 PM MDT, reporting gauges reported a stage of 12.48 feet at Antelope along the Big Muddy Creek. Flood stage is 12 feet. Rapid snowmelt is occurring and will continue to cause flooding."
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T17:21:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Sheridan"
+                ],
+                "cPolygon": [
+                    "48.76,-104.4 48.39,-104.41 48.39,-104.62 48.47,-104.63 48.48,-104.63 48.8,-104.68 48.76,-104.4"
+                ],
+                "cFIPS": "030091",
+                "cUGC": "MTC091",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A71F94.FloodWarning.125844B60AB8MT.GGWFLSGGW.522d0f0d44fbe2a650e54fea5ff5feb8"
+                ],
+                "cUpdated": [
+                    "2017-03-18T16:53:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T16:53:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 4:53PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR AN ICE JAM REMAINS IN EFFECT UNTIL 1230 PM MDT SUNDAY FOR SOUTH CENTRAL ROOSEVELT COUNTY... At 450 PM MDT, flooding continues along the Poplar River due to an ice jam near Poplar. The ice jam near the railroad bridge has moved downstream, but flooding continues in low lying areas around Poplar."
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T16:53:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Roosevelt"
+                ],
+                "cPolygon": [
+                    "48.07,-105.2 48.07,-105.21 48.1,-105.23 48.15,-105.22 48.15,-105.17 48.07,-105.2"
+                ],
+                "cFIPS": "030085",
+                "cUGC": "MTC085",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A6F820.HighWindWarning.125844B53BB0MT.TFXNPWTFX.405b7825e3c6b5d85ce9f075e6fd0d5d"
+                ],
+                "cUpdated": [
+                    "2017-03-18T15:52:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T15:52:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "High Wind Warning issued March 18 at 3:52PM MDT until March 19 at 9:00AM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...HIGH WIND WARNING REMAINS IN EFFECT UNTIL 9 AM MDT SUNDAY... * Winds: Southwest to West 20 to 30 mph. Gusts up to 60 mph over the plains, and up to 80 mph at favored locations along the Rocky Mountain Front. * Timing: Strong winds are expected to develop this evening with the passage of a Pacific cold front. The strong winds should"
+                ],
+                "cEvent": [
+                    "High Wind Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T15:52:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T09:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Severe"
+                ],
+                "cAreaDesc": [
+                    "Eastern Glacier; Liberty; Northern Rocky Mountain Front; Southern Rocky Mountain Front; Toole"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "030035 030049 030051 030073 030099 030101",
+                "cUGC": "MTZ009 MTZ010 MTZ044 MTZ045 MTZ048",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A6D110.FloodWatch.125844B53BB0MT.TFXFFATFX.eabf88e3bd5b672a086cce69d9e4d141"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:52:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:52:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Watch issued March 18 at 2:52PM MDT until March 19 at 9:00AM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...FLOOD WATCH REMAINS IN EFFECT THROUGH SUNDAY MORNING... The Flood Watch continues for * A portion of north central Montana, including Blaine and Hill Counties. * Through Sunday morning * Increased snowmelt from unseasonably warm afternoon"
+                ],
+                "cEvent": [
+                    "Flood Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:52:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T09:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Blaine; Hill"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "030005 030041",
+                "cUGC": "MTZ011 MTZ047",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A6D110.FloodWatch.125844B53BB0MT.TFXFFATFX.1af80aa2f17fa537cf2d2de7fab949f9"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:52:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:52:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Watch issued March 18 at 2:52PM MDT until March 19 at 9:00AM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...FLOOD WATCH REMAINS IN EFFECT THROUGH SUNDAY MORNING... The Flood Watch continues for * A portion of central Montana, including Judith Basin and Meagher Counties. * Through Sunday morning. * Increased snowmelt from unseasonably warm afternoon"
+                ],
+                "cEvent": [
+                    "Flood Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:52:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T09:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Judith Basin; Meagher"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "030045 030059",
+                "cUGC": "MTZ050 MTZ054",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A6D110.FloodWatch.125844B60AB8MT.TFXFFATFX.179fea1b138c8110f5bb0d786f177809"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:52:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:52:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Watch issued March 18 at 2:52PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...FLOOD WATCH REMAINS IN EFFECT THROUGH SUNDAY MORNING... The Flood Watch continues for * Beaverhead County, in Southwest Montana. * Through Sunday morning. * Increased snowmelt from unseasonably warm afternoon temperatures could cause smalls streams and rivers that flow"
+                ],
+                "cEvent": [
+                    "Flood Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:52:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Beaverhead"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "030001",
+                "cUGC": "MTZ008",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A6C9A4.FloodAdvisory.125844B60AB8MT.MSOFLSMSO.008420bf9c23855811ea2d072fb6665b"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:33:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:33:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 2:33PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...THE URBAN AND SMALL STREAM FLOOD ADVISORY FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL MIDNIGHT MDT MONDAY/1100 PM PDT SUNDAY/ FOR NORTHEASTERN IDAHO...CLEARWATER AND NORTHWESTERN RAVALLI COUNTIES... Doppler radar and automated rain gauges indicate continued rain across the advised area. Up to two inches of rain has already fallen in the mountains with around half an inch in the valleys such as"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:33:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Ravalli"
+                ],
+                "cPolygon": [
+                    "46.63,-116.41 46.64,-116.33 46.94,-116.33 46.92,-114.92 46.86,-114.94 46.76,-114.76 46.7,-114.77 46.74,-114.67 46.64,-114.61 46.64,-114.35 46.16,-114.51 45.97,-115.37 45.92,-115.89 46.1,-116.1 46.23,-116 46.31,-116.14 46.41,-116.19 46.41,-116.3 46.5,-116.37 46.5,-116.45 46.63,-116.41"
+                ],
+                "cFIPS": "030081",
+                "cUGC": "MTC081",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A6C238.FloodAdvisory.125844B60AB8MT.MSOFLSMSO.01452d9862ca04728fea141aabb9a7e4"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:14:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:14:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 2:14PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...THE URBAN AND SMALL STREAM FLOOD ADVISORY FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 600 PM MDT SUNDAY FOR MINERAL AND SOUTHWESTERN SANDERS COUNTIES... Doppler radar and automated rain gauges indicate continued rain across the advised area. Up to two inches of rain has already fallen in the mountains with a quarter to half an inch in the valleys such"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:14:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Mineral; Sanders"
+                ],
+                "cPolygon": [
+                    "47.49,-115.69 47.47,-115.63 47.49,-115.66 47.49,-115.62 47.39,-114.95 47.01,-114.49 46.96,-114.57 46.75,-114.55 46.75,-114.67 46.7,-114.77 46.76,-114.76 46.8,-114.9 46.86,-114.94 46.92,-114.92 46.97,-115.05 47.25,-115.32 47.29,-115.5 47.37,-115.58 47.44,-115.75 47.49,-115.69"
+                ],
+                "cFIPS": "030061 030089",
+                "cUGC": "MTC061 MTC089",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A6BF7C.FloodAdvisory.125844B60AB8MT.MSOFLSMSO.5891f8ebcbd3ba7ac884297b0a54867b"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:07:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:07:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 2:07PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...THE URBAN AND SMALL STREAM FLOOD ADVISORY FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL MIDNIGHT MDT MONDAY FOR NORTH CENTRAL MINERAL...SOUTHWESTERN LINCOLN AND NORTHWESTERN SANDERS COUNTIES... Doppler radar and automated rain gauges indicate continued rain across the advised area. Up to two inches of rain has already fallen in the mountains with a quarter to half an inch in the valleys such"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:07:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Lincoln; Mineral; Sanders"
+                ],
+                "cPolygon": [
+                    "48.21,-116.04 48.15,-115.95 48.25,-115.76 48.21,-115.69 47.94,-115.49 47.94,-115.16 47.39,-114.94 47.49,-115.68 47.57,-115.73 47.59,-115.69 47.63,-115.7 47.64,-115.73 47.7,-115.72 47.72,-115.78 47.76,-115.8 47.75,-115.83 47.83,-115.85 47.9,-115.97 48.01,-116.05 48.21,-116.04"
+                ],
+                "cFIPS": "030053 030061 030089",
+                "cUGC": "MTC053 MTC061 MTC089",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A69A60.FloodAdvisory.125844B60AB8MT.TFXFLSTFX.9496436c9667df70f7b6f4bfc6935451"
+                ],
+                "cUpdated": [
+                    "2017-03-18T13:12:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T13:12:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 1:12PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Great Falls has extended the * Small Stream Flood Advisory for... Snowmelt in... Northwestern Blaine County in north central Montana... Northeastern Hill County in north central Montana... * Until 230 PM MDT Sunday"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T13:12:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Blaine; Hill"
+                ],
+                "cPolygon": [
+                    "49,-109.06 48.55,-109.06 48.56,-109.24 49,-109.82 49,-109.06"
+                ],
+                "cFIPS": "030005 030041",
+                "cUGC": "MTC005 MTC041",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=MT125844A58760.FloodWarning.125844B60AB8MT.GGWFLSGGW.5e3c7b4abc8bbb021faaa07aad369baf"
+                ],
+                "cUpdated": [
+                    "2017-03-18T06:08:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T06:08:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 6:08AM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL 915 PM MDT SUNDAY FOR NORTHEASTERN PHILLIPS COUNTY... At 555 AM MDT, snowmelt runoff continues to bring flooding to Frenchman Creek between Frenchman Reservoir and the Canadian Border. The creek at the gage site at the International Border had a stage near 15.0 feet at 530 am. Flood stage there is 12.0 feet. With"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T06:08:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T14:30:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Phillips"
+                ],
+                "cPolygon": [
+                    "49,-107.23 48.83,-107.2 48.54,-107.21 48.56,-107.37 49,-107.37 49,-107.23"
+                ],
+                "cFIPS": "030071",
+                "cUGC": "MTC071",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NC125844B34940.HighSurfAdvisory.125844C47DF0NC.MHXCFWMHX.ebea02ff328560ae8a12a2f56e1bac2c"
+                ],
+                "cUpdated": [
+                    "2017-03-18T22:24:00-04:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T22:24:00-04:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "High Surf Advisory issued March 18 at 10:24PM EDT until March 20 at 11:00AM EDT by NWS"
+                ],
+                "cSummary": [
+                    "...HIGH SURF ADVISORY FOR THE OUTER BANKS NORTH OF CAPE HATTERAS THROUGH LATE SUNDAY MORNING... .THE STRONG PRESSURE GRADIENT BEHIND THE DEPARTING COLD FRONT WILL PRODUCE GALE FORCE WINDS ALONG THE NORTH CAROLINA COAST BEGINNING SUNDAY MORNING. THIS WILL RESULT IN LARGE WAVES PRODUCING MINOR BEACH EROSION...ESPECIALLY AT TIMES OF HIGH"
+                ],
+                "cEvent": [
+                    "High Surf Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T22:24:00-04:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T11:00:00-04:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Outer Banks Dare"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "037055",
+                "cUGC": "NCZ103",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NC125844A6AA64.HighSurfAdvisory.125844B67430NC.AKQCFWAKQ.7f9f6a79f94dad0dc4bfb6230ab24011"
+                ],
+                "cUpdated": [
+                    "2017-03-18T15:53:00-04:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T15:53:00-04:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "High Surf Advisory issued March 18 at 3:53PM EDT until March 19 at 7:00PM EDT by NWS"
+                ],
+                "cSummary": [
+                    "...HIGH SURF ADVISORY REMAINS IN EFFECT FROM 1 PM TO 7 PM EDT SUNDAY... * LOCATION: CURRITUCK COUNTY NC OUTER BANKS. * SURF HEIGHT: AROUND 8 FEET IN THE SURF ZONE. * TIMING: SUNDAY AFTERNOON. * SHORELINE IMPACTS: BREAKING WAVES WILL RESULT IN BEACH EROSION WITH ONLY MINOR DAMAGE POSSIBLE TO DUNE STRUCTURES."
+                ],
+                "cEvent": [
+                    "High Surf Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T15:53:00-04:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T19:00:00-04:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Eastern Currituck"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "037053",
+                "cUGC": "NCZ102",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NE125844B34A6C.FireWeatherWatch.125844C25B10NE.GLDRFWGLD.10887402481e9b1aaf306c0a58d6549d"
+                ],
+                "cUpdated": [
+                    "2017-03-18T21:27:00-05:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T21:27:00-05:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Fire Weather Watch issued March 18 at 9:27PM CDT until March 19 at 8:00PM CDT by NWS"
+                ],
+                "cSummary": [
+                    "...FIRE WEATHER WATCH REMAINS IN EFFECT FROM SUNDAY AFTERNOON THROUGH SUNDAY EVENING FOR WIND AND LOW RELATIVE HUMIDITY FOR FIRE WEATHER ZONES 079 AND 252... * Affected Area...In Colorado...Fire Weather Zone 252 Yuma. In Nebraska...Fire Weather Zone 079 Dundy. * Winds...Northwest 10 to 20 mph with gusts up to 30 mph."
+                ],
+                "cEvent": [
+                    "Fire Weather Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T21:27:00-05:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-05:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Dundy"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "031057",
+                "cUGC": "NEZ079",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NE125844A6CA08.RedFlagWarning.125844C25B10NE.LBFRFWLBF.df47c90e6f2407aa057ef0c123d7daf7"
+                ],
+                "cUpdated": [
+                    "2017-03-18T15:34:00-05:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T15:34:00-05:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Red Flag Warning issued March 18 at 3:34PM CDT until March 19 at 8:00PM CDT by NWS"
+                ],
+                "cSummary": [
+                    "...Large range fire growth possible Sunday afternoon... .The combination of recent drought, abnormally warm and dry conditions and breezy winds will increase the potential of large range fire growth Sunday afternoon. ...RED FLAG WARNING REMAINS IN EFFECT FROM 11 AM TO 7 PM MDT SUNDAY FOR LOW RELATIVE HUMIDITY...BREEZY WINDS AND A DRY COLD"
+                ],
+                "cEvent": [
+                    "Red Flag Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T15:34:00-05:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-05:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Severe"
+                ],
+                "cAreaDesc": [
+                    "Eastern Panhandle, Crescent Lake NWR; Frenchman Basin"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "031005 031029 031031 031049 031063 031069 031075 031085 031101 031111 031135 031161",
+                "cUGC": "NEZ204 NEZ210",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NE125844A6CA08.RedFlagWarning.125844C25B10NE.LBFRFWLBF.314bb1a30cc09b784018905cde740e73"
+                ],
+                "cUpdated": [
+                    "2017-03-18T15:34:00-05:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T15:34:00-05:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Red Flag Warning issued March 18 at 3:34PM CDT until March 19 at 8:00PM CDT by NWS"
+                ],
+                "cSummary": [
+                    "...Large range fire growth possible Sunday afternoon... .The combination of recent drought, abnormally warm and dry conditions and breezy winds will increase the potential of large range fire growth Sunday afternoon. ...RED FLAG WARNING IN EFFECT FROM NOON TO 8 PM CDT SUNDAY FOR LOW RELATIVE HUMIDITY...BREEZY WINDS AND A DRY COLD FRONTAL PASSAGE"
+                ],
+                "cEvent": [
+                    "Red Flag Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T15:34:00-05:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-05:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Severe"
+                ],
+                "cAreaDesc": [
+                    "Loess Plains; Sandhills, Valentine NWR, Nebraska National Forest"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "031009 031017 031031 031063 031091 031111 031113 031117 031149 031171",
+                "cUGC": "NEZ206 NEZ219",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NE125844A6C620.RedFlagWarning.125844C25B10NE.CYSRFWCYS.da66b3b8b93f01a9c82e75095ed89a2a"
+                ],
+                "cUpdated": [
+                    "2017-03-18T15:24:00-05:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T15:24:00-05:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Red Flag Warning issued March 18 at 3:24PM CDT until March 19 at 8:00PM CDT by NWS"
+                ],
+                "cSummary": [
+                    "...Red Flag Warning on Sunday Across Plains of Southeast Wyoming and Western Nebraska Panhandle... .Gusty winds of 25 to 35 mph along with minimum humidities below 15 percent will produce critical fire weather conditions late Sunday morning through early Sunday evening. ...RED FLAG WARNING REMAINS IN EFFECT FROM 11 AM TO 7 PM MDT"
+                ],
+                "cEvent": [
+                    "Red Flag Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T15:24:00-05:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-05:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Severe"
+                ],
+                "cAreaDesc": [
+                    "Box Butte, South Sioux; Pine Ridge, Nebraska National Forest, Oglala National Grasslands; Scotts Bluff National Monument, Wildcat Hills"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "031007 031013 031033 031045 031105 031123 031157 031165",
+                "cUGC": "NEZ311 NEZ312 NEZ313",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NM125844A5937C.FireWeatherWatch.125844C28220NM.ABQRFWABQ.e6b482a1cc66d54fb8527df173cfdc3b"
+                ],
+                "cUpdated": [
+                    "2017-03-18T06:39:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T06:39:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Fire Weather Watch issued March 18 at 6:39AM MDT until March 19 at 8:00PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...FIRE WEATHER WATCH SUNDAY LATE MORNING THROUGH EARLY EVENING FOR THE NORTHEAST HIGHLANDS AND EASTERN PLAINS DUE TO STRONG WINDS AND LOW HUMIDITIES... .The potential exists for several hours of critical fire weather conditions as an upper level trough passing north of New Mexico and a surface lee trough induce strong downslope winds across"
+                ],
+                "cEvent": [
+                    "Fire Weather Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T06:39:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "East Central Plains; Northeast Highlands; Northeast Plains"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "035007 035009 035011 035019 035021 035033 035037 035039 035041 035047 035049 035059",
+                "cUGC": "NMZ103 NMZ104 NMZ108",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NV125844A71B48.FloodAdvisory.125844B5B658NV.REVFLSREV.27a87307dcaeb1758b9fcaef56275234"
+                ],
+                "cUpdated": [
+                    "2017-03-18T15:42:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T15:42:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 3:42PM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Reno has issued a * Flood Advisory for... A Dam Floodgate Release in... Southern Lyon County in west central Nevada... * Until 330 AM PDT Tuesday * Officials from Walker River Irrigation District in cooperation"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T15:42:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T11:14:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Lyon"
+                ],
+                "cPolygon": [
+                    "39.09,-118.87 39.07,-119.01 39,-119.06 38.9,-119.03 38.82,-119.03 38.72,-118.95 38.65,-118.95 38.65,-118.98 38.73,-119 38.76,-119.03 38.81,-119.06 38.83,-119.09 38.8,-119.15 38.81,-119.18 38.81,-119.22 38.86,-119.2 38.93,-119.2 39.14,-119.19 39.2,-119.06 39.09,-118.87"
+                ],
+                "cFIPS": "032019",
+                "cUGC": "NVC019",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NV125844A69740.FloodWarning.125844B5D980NV.LKNFLSLKN.acb191d24fdc76a456ac8bf6dc01678d"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:04:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:04:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:04PM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The National Weather Service in Elko is continuing the Flood Warning for the Bruneau River, including Rowland... Minor flooding is occurring now. With temperatures remaining above normal through Tuesday, nearby mountain snow will continue to melt at an accelerated pace. As such, the Bruneau River is expected to continue to rise through at least Tuesday, rising above the moderate"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:04:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T12:04:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Elko"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "032007",
+                "cUGC": "NVC007",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NV125844A67BE8.FloodWarning.125844B5BE28NV.LKNFLSLKN.eb0f2c6f5fc27d0036576fc655a0ae90"
+                ],
+                "cUpdated": [
+                    "2017-03-18T11:34:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T11:34:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 11:34AM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The National Weather Service in Elko is continuing the Flood Warning for the Lower Humboldt River, which includes Comus... Minor flooding is occurring now. With temperatures remaining above normal through Tuesday, nearby mountain snow will continue to melt at an accelerated pace. As such, the Lower Humboldt River including Comus and the reach downstream to Winnemucca will continue to rise"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T11:34:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T11:34:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Humboldt"
+                ],
+                "cPolygon": [
+                    "41.03,-117.02 40.7,-117.05 40.9,-117.62 40.87,-118 41.18,-117.95 41.03,-117.02"
+                ],
+                "cFIPS": "032013",
+                "cUGC": "NVC013",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NV125844A67418.FloodWarning.125844B5B658NV.LKNFLSLKN.ed405baf85329ed78484ea5ed9704ec5"
+                ],
+                "cUpdated": [
+                    "2017-03-18T11:14:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T11:14:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 11:14AM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The National Weather Service in Elko is continuing the Flood Warning for the Humboldt River at Battle Mountain... Minor flooding is occurring now. With temperatures remaining above normal through Tuesday, nearby mountain snow will continue to melt at an accelerated pace. As such, the Humboldt River is expected to continue to rise through the middle of next week, reaching the"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T11:14:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T11:14:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Lander"
+                ],
+                "cPolygon": [
+                    "40.74,-116.38 40.55,-116.49 40.6,-116.91 40.76,-117.1 40.93,-117.04 40.74,-116.38"
+                ],
+                "cFIPS": "032015",
+                "cUGC": "NVC015",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NV125844A65BE0.FloodWarning.125844B59E20NV.LKNFLWLKN.f781afe467782d9a4c1cd5cd829d49cf"
+                ],
+                "cUpdated": [
+                    "2017-03-18T10:52:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T10:52:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 10:52AM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The National Weather Service in Elko has issued a Flood Warning for the Humboldt River At Palisade affecting Eureka County... Well above normal temperatures in recent days have resulted in an accelerated melting of nearby mountain snows. The Humboldt River has been rising, and is expected to reach the Minor Flood Stage of 7.0 feet at Palisade Monday morning. The river is forecast to"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T10:52:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T10:52:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Eureka"
+                ],
+                "cPolygon": [
+                    "40.73,-116.15 40.66,-116.12 40.52,-116.23 40.56,-116.51 40.65,-116.44 40.73,-116.15"
+                ],
+                "cFIPS": "032011",
+                "cUGC": "NVC011",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NY125844A62C38.FloodWarning.125844C52BC4NY.BTVFLSBTV.c95f4da30f0af29717c47e6266b2dc7c"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:30:00-04:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:30:00-04:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:30PM EDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR AN ICE JAM REMAINS IN EFFECT UNTIL 430 PM EDT MONDAY FOR NORTH CENTRAL FRANKLIN COUNTY... At 1230 PM EDT, flooding continues in north Malone New York along the Salmon River due to an ice jam. The ice jam remains in place and is flooding Lower Park and Lane streets, and water was approaching the waste water treatment plant. Access to the Alice Hyde Medical"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:30:00-04:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T15:45:00-04:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Franklin"
+                ],
+                "cPolygon": [
+                    "44.9,-74.31 44.79,-74.22 44.77,-74.25 44.88,-74.34 45,-74.51 45,-74.46 44.9,-74.31"
+                ],
+                "cFIPS": "036033",
+                "cUGC": "NYC033",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=NY125844A6265C.FloodWarning.125844C52BC4NY.BTVFLSBTV.1ff381d62d5aa097bb97954286e4513c"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:15:00-04:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:15:00-04:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:15PM EDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR AN ICE JAM REMAINS IN EFFECT UNTIL 345 PM EDT MONDAY FOR NORTHWESTERN FRANKLIN COUNTY... At 1215 PM EDT, flooding in Hogansburg New York continues due to an ice jam on the Raquette River. Flooding was observed in low lying areas north of Route 37 and threatening nearby homes. Residents in the Hogansburg area should be aware of river conditions and follow"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:15:00-04:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T15:45:00-04:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Franklin"
+                ],
+                "cPolygon": [
+                    "45,-74.66 45,-74.55 44.92,-74.6 44.91,-74.63 44.95,-74.64 44.95,-74.72 44.99,-74.73 45,-74.7 45,-74.67 45.01,-74.67 45,-74.66"
+                ],
+                "cFIPS": "036033",
+                "cUGC": "NYC033",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=OK125844A6841C.FireWeatherWatch.125844C25B10OK.OUNRFWOUN.b2255af8934b080a22dd19b6341e8c13"
+                ],
+                "cUpdated": [
+                    "2017-03-18T13:55:00-05:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T13:55:00-05:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Fire Weather Watch issued March 18 at 1:55PM CDT until March 19 at 8:00PM CDT by NWS"
+                ],
+                "cSummary": [
+                    "...Critical fire weather conditions likely on Sunday across parts of western Oklahoma and western north Texas... ...FIRE WEATHER WATCH REMAINS IN EFFECT FROM SUNDAY AFTERNOON THROUGH SUNDAY EVENING FOR WINDY CONDITIONS... VERY WARM TEMPERATURES AND LOW RELATIVE HUMIDITY FOR PARTS OF WESTERN OKLAHOMA AND WESTERN NORTH TEXAS..."
+                ],
+                "cEvent": [
+                    "Fire Weather Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T13:55:00-05:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-05:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Alfalfa; Beckham; Custer; Dewey; Ellis; Greer; Harmon; Harper; Jackson; Kiowa; Major; Roger Mills; Washita; Woods; Woodward"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "040003 040009 040039 040043 040045 040055 040057 040059 040065 040075 040093 040129 040149 040151 040153",
+                "cUGC": "OKZ004 OKZ005 OKZ006 OKZ009 OKZ010 OKZ011 OKZ014 OKZ015 OKZ016 OKZ021 OKZ022 OKZ033 OKZ034 OKZ035 OKZ036",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=OR125844A6F564.FloodWarning.1258450F4B28OR.PDTFLWPDT.370ab82bf160c446e7a19f6ec56290a1"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:45:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:45:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 2:45PM PDT until March 24 at 10:22PM PDT by NWS"
+                ],
+                "cSummary": [
+                    "Grande Ronde River at Troy affecting Wallowa and Asotin Counties The Flood Warning continues for The Grande Ronde River at Troy. * At 2:00 PM Saturday, the stage was 10.7 feet. * Flood stage is 10.0 feet. * Minor flooding is occurring and moderate flooding is forecast."
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:45:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-24T22:22:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Wallowa"
+                ],
+                "cPolygon": [
+                    "45.91,-117.43 45.95,-117.45 45.99,-117.39 46.05,-117.31 46.02,-117.27 45.91,-117.43"
+                ],
+                "cFIPS": "041063",
+                "cUGC": "ORC063",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=OR125844A6F244.FloodWarning.125844B3C384OR.PQRFLSPQR.83494c8424a9b30c4e32e24f3e251e95"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:37:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:37:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 2:37PM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "Lower Columbia/Lower Willamette/SW Washington Bulletin ...The Flood Warning continues for the following rivers in Oregon... Washington... Columbia R at Vancouver affecting Multnomah and Clark Counties River forecasts are based on observed and forecast rainfall and temperatures, and they include current and planned reservoir"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:37:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-18T22:37:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Multnomah"
+                ],
+                "cPolygon": [
+                    "45.55,-122.28 45.67,-122.65 45.76,-122.74 45.76,-122.86 45.56,-122.69 45.55,-122.28"
+                ],
+                "cFIPS": "041051",
+                "cUGC": "ORC051",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=OR125844974178.FloodWarning.125844C293B4OR.BOIFLWBOI.45a83858b17747132837ab7b526c8864"
+                ],
+                "cUpdated": [
+                    "2017-03-17T11:54:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-17T11:54:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 17 at 11:54AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Boise has issued a * Flood Warning for... Snowmelt in... Northern Harney County in southeastern Oregon... * Until 1145 AM PDT Monday * At 1145 AM PDT, emergency management officials reported flooding"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-17T11:54:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T19:45:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Harney"
+                ],
+                "cPolygon": [
+                    "43.95,-118.85 43.43,-118.6 43.41,-119.43 43.56,-119.72 43.94,-119.73 43.95,-118.85"
+                ],
+                "cFIPS": "041025",
+                "cUGC": "ORC025",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=OR12584496A27C.FloodAdvisory.125844C293B4OR.BOIFLSBOI.54c311787921363548518cd4a14cd43d"
+                ],
+                "cUpdated": [
+                    "2017-03-17T07:47:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-17T07:47:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 17 at 7:47AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "The National Weather Service in Boise has issued a * Small Stream Flood Advisory for... Snowmelt in... Boise County in southwestern Idaho... Valley County in southwestern Idaho... Northeastern Elmore County in southwestern Idaho..."
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-17T07:47:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T19:45:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Baker"
+                ],
+                "cPolygon": [
+                    "45.13,-116.28 45.11,-116.3 45.2,-114.7 44.88,-114.73 44.61,-115.28 44.34,-115.3 43.28,-114.46 43.27,-115.61 43.81,-116.28 43.86,-116.72 44.15,-116.45 44.15,-116.9 44.16,-116.89 44.44,-117.6 44.26,-118.5 44.59,-118.3 44.71,-118.48 45.05,-118.13 45.08,-116.79 45.27,-116.69 45.13,-116.28"
+                ],
+                "cFIPS": "041001",
+                "cUGC": "ORC001",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=PR125844B2FC4C.RipCurrentStatement.125844B64D20PR.JSJCFWSJU.fdc6209636b2c0033259af458b744192"
+                ],
+                "cUpdated": [
+                    "2017-03-18T21:27:00-03:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T21:27:00-03:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Rip Current Statement issued March 18 at 9:27PM ADT until March 19 at 7:00PM ADT by NWS"
+                ],
+                "cSummary": [
+                    "...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH SUNDAY AFTERNOON... * LOCATION...THE NORTHWEST THROUGH NORTHEAST COASTLINE OF PUERTO RICO AND SAINT CROIX. * TIMING..THROUGH SUNDAY AFTERNOON. * IMPACTS...STRONG CURRENTS THAT CAN CARRY EVEN THE BEST SWIMMERS OUT TO SEA."
+                ],
+                "cEvent": [
+                    "Rip Current Statement"
+                ],
+                "cEffective": [
+                    "2017-03-18T21:27:00-03:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T19:00:00-03:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "North Central; Northeast; Northwest; San Juan and Vicinity"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "072005 072013 072017 072021 072027 072029 072031 072033 072037 072051 072053 072054 072061 072065 072069 072071 072087 072089 072091 072103 072115 072119 072127 072135 072137 072139 072143 072145",
+                "cUGC": "PRZ001 PRZ002 PRZ005 PRZ008",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=TN125844A7444C.FrostAdvisory.125844B514A0TN.MEGNPWMEG.1e0ebd0283ffdef77ac762ec6eacbcfd"
+                ],
+                "cUpdated": [
+                    "2017-03-18T18:47:00-05:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T18:47:00-05:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Frost Advisory issued March 18 at 6:47PM CDT until March 19 at 9:00AM CDT by NWS"
+                ],
+                "cSummary": [
+                    "...Areas of Frost will develop across West Tennessee Overnight... .Clear skies and light winds will allow temperatures to drop into the mid 30s across portions of West Tennessee after midnight. As a result, areas of frost will develop by sunrise. ...FROST ADVISORY IN EFFECT FROM 2 AM TO 9 AM CDT SUNDAY... The National Weather Service in Memphis has issued a Frost"
+                ],
+                "cEvent": [
+                    "Frost Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T18:47:00-05:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T09:00:00-05:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Benton; Carroll; Chester; Crockett; Decatur; Gibson; Hardin; Henderson; Henry; Madison; McNairy; Obion; Weakley"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "047005 047017 047023 047033 047039 047053 047071 047077 047079 047109 047113 047131 047183",
+                "cUGC": "TNZ002 TNZ003 TNZ004 TNZ020 TNZ021 TNZ022 TNZ051 TNZ052 TNZ053 TNZ054 TNZ055 TNZ091 TNZ092",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=TX125844A6841C.FireWeatherWatch.125844C25B10TX.OUNRFWOUN.aa85a1d41e2acece6b1cfb90d3734039"
+                ],
+                "cUpdated": [
+                    "2017-03-18T13:55:00-05:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T13:55:00-05:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Fire Weather Watch issued March 18 at 1:55PM CDT until March 19 at 8:00PM CDT by NWS"
+                ],
+                "cSummary": [
+                    "...Critical fire weather conditions likely on Sunday across parts of western Oklahoma and western north Texas... ...FIRE WEATHER WATCH REMAINS IN EFFECT FROM SUNDAY AFTERNOON THROUGH SUNDAY EVENING FOR WINDY CONDITIONS... VERY WARM TEMPERATURES AND LOW RELATIVE HUMIDITY FOR PARTS OF WESTERN OKLAHOMA AND WESTERN NORTH TEXAS..."
+                ],
+                "cEvent": [
+                    "Fire Weather Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T13:55:00-05:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T20:00:00-05:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Baylor; Foard; Hardeman; Knox; Wilbarger"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "048023 048155 048197 048275 048487",
+                "cUGC": "TXZ083 TXZ084 TXZ085 TXZ087 TXZ088",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=VI125844B2FC4C.RipCurrentStatement.125844B64D20VI.JSJCFWSJU.987a8c756bcbc0d90464cf1e70979ca9"
+                ],
+                "cUpdated": [
+                    "2017-03-18T20:27:00-04:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T20:27:00-04:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Rip Current Statement issued March 18 at 8:27PM AST until March 19 at 6:00PM AST by NWS"
+                ],
+                "cSummary": [
+                    "...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH SUNDAY AFTERNOON... * LOCATION...THE NORTHWEST THROUGH NORTHEAST COASTLINE OF PUERTO RICO AND SAINT CROIX. * TIMING..THROUGH SUNDAY AFTERNOON. * IMPACTS...STRONG CURRENTS THAT CAN CARRY EVEN THE BEST SWIMMERS OUT TO SEA."
+                ],
+                "cEvent": [
+                    "Rip Current Statement"
+                ],
+                "cEffective": [
+                    "2017-03-18T20:27:00-04:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T18:00:00-04:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "St Croix"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "078010",
+                "cUGC": "VIZ002",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844B30804.FloodWarning.125844C24A44WA.OTXFLSOTX.d601a0c9c01ba2abccea21898e75a812"
+                ],
+                "cUpdated": [
+                    "2017-03-18T17:57:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T17:57:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 5:57PM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The flood warning continues for the following rivers and lakes in Idaho...Washington... Coeur d Alene River at Cataldo AFFECTING Kootenai and Shoshone Counties Little Spokane River at Dartford AFFECTING Spokane County Palouse River near Potlatch AFFECTING Latah and Whitman Counties"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T17:57:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T17:57:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Spokane"
+                ],
+                "cPolygon": [
+                    "47.61,-117.04 47.64,-117.47 47.75,-117.54 47.72,-117.05 47.61,-117.04 47.61,-117.04"
+                ],
+                "cFIPS": "053063",
+                "cUGC": "WAC063",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844B30804.FloodWarning.125844C4855CWA.OTXFLSOTX.71bede23074e96446f71ab395346e50c"
+                ],
+                "cUpdated": [
+                    "2017-03-18T17:57:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T17:57:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 5:57PM PDT until March 20 at 8:19AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...The flood warning continues for the following rivers and lakes in Idaho...Washington... Coeur d Alene River at Cataldo AFFECTING Kootenai and Shoshone Counties Little Spokane River at Dartford AFFECTING Spokane County Palouse River near Potlatch AFFECTING Latah and Whitman Counties"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T17:57:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T08:19:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Whitman"
+                ],
+                "cPolygon": [
+                    "46.88,-116.7 46.87,-116.98 46.86,-117.22 46.97,-117.23 46.98,-116.74 46.88,-116.7"
+                ],
+                "cFIPS": "053075",
+                "cUGC": "WAC075",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844B30804.FloodWarning.125844C5B8C8WA.OTXFLSOTX.e930d27f8be89732ab90d803d1b89de1"
+                ],
+                "cUpdated": [
+                    "2017-03-18T17:57:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T17:57:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 5:57PM PDT until March 20 at 4:06PM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...The flood warning continues for the following rivers and lakes in Idaho...Washington... Coeur d Alene River at Cataldo AFFECTING Kootenai and Shoshone Counties Little Spokane River at Dartford AFFECTING Spokane County Palouse River near Potlatch AFFECTING Latah and Whitman Counties"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T17:57:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T16:06:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Spokane"
+                ],
+                "cPolygon": [
+                    "47.73,-117.26 47.75,-117.52 47.84,-117.55 47.9,-117.35 47.87,-117.25 47.73,-117.26"
+                ],
+                "cFIPS": "053063",
+                "cUGC": "WAC063",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A74064.FloodWarning.125844B436C0WA.SEWFLSSEW.0d1137056ca4384dd358df2929fbd7eb"
+                ],
+                "cUpdated": [
+                    "2017-03-18T16:37:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T16:37:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 4:37PM PDT until March 19 at 1:32AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...The Flood Warning continues for the following rivers in Washington... Skokomish River near Potlatch affecting Mason County. White River at R Street affecting King and Pierce Counties. .Flood Bulletin No. 22 Olympic Peninsula and South West Regions"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T16:37:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T01:32:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Mason"
+                ],
+                "cPolygon": [
+                    "47.44,-123.26 47.33,-123.21 47.36,-123.17 47.33,-123.08 47.21,-123.21 47.38,-123.4 47.44,-123.26"
+                ],
+                "cFIPS": "053045",
+                "cUGC": "WAC045",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A74064.FloodWarning.125844C444E8WA.SEWFLSSEW.6cfdd267140c68298437ebb4626064b4"
+                ],
+                "cUpdated": [
+                    "2017-03-18T16:37:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T16:37:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 4:37PM PDT until March 20 at 6:54AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...The Flood Warning continues for the following rivers in Washington... Skokomish River near Potlatch affecting Mason County. White River at R Street affecting King and Pierce Counties. .Flood Bulletin No. 22 Olympic Peninsula and South West Regions"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T16:37:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T06:54:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "King; Pierce"
+                ],
+                "cPolygon": [
+                    "47.21,-122.14 47.24,-122.19 47.19,-122.23 47.24,-122.3 47.32,-122.26 47.32,-122.14 47.21,-122.14"
+                ],
+                "cFIPS": "053033 053053",
+                "cUGC": "WAC033 WAC053",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A7124C.FloodWarning.125844B47FCCWA.OTXFLWOTX.642a08d44a2bb5076a22a4ba9f989a80"
+                ],
+                "cUpdated": [
+                    "2017-03-18T15:19:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T15:19:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 3:19PM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...The National Weather Service in Spokane has issued a flood warning for the following rivers and lakes in Idaho...Washington... Paradise Creek at Moscow AFFECTING Latah and Whitman Counties ...Bands of heavy rain showers and isolated thunderstorms is expected to push Paradise Creek to near flood stage this afternoon... The National Weather Service in Spokane, WA has issued a"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T15:19:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T03:19:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Whitman"
+                ],
+                "cPolygon": [
+                    "46.82,-117.04 46.83,-116.73 46.65,-116.72 46.65,-117.04 46.82,-117.04 46.82,-117.04"
+                ],
+                "cFIPS": "053075",
+                "cUGC": "WAC075",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A7124C.SpecialWeatherStatement.125844C4855CWA.SEWSPSSEW.7f6a6b37ffe8f815334f0a0567b6b051"
+                ],
+                "cUpdated": [
+                    "2017-03-18T15:19:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T15:19:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Special Weather Statement issued March 18 at 3:19PM PDT until March 20 at 8:19AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...THE INCREASED THREAT OF LANDSLIDES IN WESTERN WASHINGTON WILL BEGIN TO EASE WITH DRY WEATHER SUNDAY AND MONDAY... Heavy rain Saturday night has kept soils in Western Washington near saturation, causing USGS landslide thresholds to be exceeded. The wet weather has resulted an elevated threat of rain-induced shallow landslides. There will be a period of dry weather Sunday"
+                ],
+                "cEvent": [
+                    "Special Weather Statement"
+                ],
+                "cEffective": [
+                    "2017-03-18T15:19:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T08:19:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Bellevue and Vicinity; Bremerton and Vicinity; Central Coast; East Puget Sound Lowlands; Everett and Vicinity; Hood Canal Area; Lower Chehalis Valley Area; North Coast; Seattle and Vicinity; Southwest Interior; Tacoma Area; Western Strait of Juan De Fuca"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "053009 053027 053031 053033 053035 053041 053045 053053 053057 053061 053067",
+                "cUGC": "WAZ504 WAZ507 WAZ509 WAZ511 WAZ512 WAZ515 WAZ516 WAZ517 WAZ555 WAZ556 WAZ558 WAZ559",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A6F564.FloodWarning.1258450F4B28WA.PDTFLWPDT.08680167b5690f6c90113837273b05e9"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:45:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:45:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 2:45PM PDT until March 24 at 10:22PM PDT by NWS"
+                ],
+                "cSummary": [
+                    "Grande Ronde River at Troy affecting Wallowa and Asotin Counties The Flood Warning continues for The Grande Ronde River at Troy. * At 2:00 PM Saturday, the stage was 10.7 feet. * Flood stage is 10.0 feet. * Minor flooding is occurring and moderate flooding is forecast."
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:45:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-24T22:22:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Asotin"
+                ],
+                "cPolygon": [
+                    "45.91,-117.43 45.95,-117.45 45.99,-117.39 46.05,-117.31 46.02,-117.27 45.91,-117.43"
+                ],
+                "cFIPS": "053003",
+                "cUGC": "WAC003",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A6F244.FloodWarning.125844B3C384WA.PQRFLSPQR.01625cce4c3b09ee686c48b0912ceec2"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:37:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:37:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 2:37PM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "Lower Columbia/Lower Willamette/SW Washington Bulletin ...The Flood Warning continues for the following rivers in Oregon... Washington... Columbia R at Vancouver affecting Multnomah and Clark Counties River forecasts are based on observed and forecast rainfall and temperatures, and they include current and planned reservoir"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:37:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-18T22:37:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Clark"
+                ],
+                "cPolygon": [
+                    "45.55,-122.28 45.67,-122.65 45.76,-122.74 45.76,-122.86 45.56,-122.69 45.55,-122.28"
+                ],
+                "cFIPS": "053011",
+                "cUGC": "WAC011",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A6A99C.FloodWarning.125844B3C384WA.OTXFLSOTX.2c79aedd8bd93ad7574ae106cf0ac917"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:51PM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 1215 PM PDT SUNDAY FOR NEZ PERCE...SHOSHONE...LEWIS...BENEWAH... KOOTENAI...LATAH...BONNER...BOUNDARY...GARFIELD...FERRY...SPOKANE... NORTHEASTERN OKANOGAN...WHITMAN...STEVENS...ASOTIN AND PEND OREILLE COUNTIES... * Recent rain and snow melt will result in increased runoff with"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-18T22:37:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Ferry; Garfield"
+                ],
+                "cPolygon": [
+                    "45.86,-116.79 46,-116.92 46,-117.59 46.62,-117.85 46.59,-118.21 46.87,-117.97 47.26,-117.96 47.26,-117.82 47.83,-117.82 47.93,-118.83 49,-118.84 48.99,-116.05 47.98,-116.05 47.7,-115.72 47.43,-115.75 46.94,-114.98 46.93,-116.33 46.5,-116.45 46.23,-116.01 46.2,-116.44 45.86,-116.79"
+                ],
+                "cFIPS": "053019 053023",
+                "cUGC": "WAC019 WAC023",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A6A99C.FloodWarning.125844B436C0WA.OTXFLSOTX.7140301bb44a6b3153a36226134f6c1a"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:51PM PDT until March 19 at 1:32AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 1215 PM PDT SUNDAY FOR NEZ PERCE...SHOSHONE...LEWIS...BENEWAH... KOOTENAI...LATAH...BONNER...BOUNDARY...GARFIELD...FERRY...SPOKANE... NORTHEASTERN OKANOGAN...WHITMAN...STEVENS...ASOTIN AND PEND OREILLE COUNTIES... * Recent rain and snow melt will result in increased runoff with"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T01:32:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Okanogan; Pend Oreille"
+                ],
+                "cPolygon": [
+                    "45.86,-116.79 46,-116.92 46,-117.59 46.62,-117.85 46.59,-118.21 46.87,-117.97 47.26,-117.96 47.26,-117.82 47.83,-117.82 47.93,-118.83 49,-118.84 48.99,-116.05 47.98,-116.05 47.7,-115.72 47.43,-115.75 46.94,-114.98 46.93,-116.33 46.5,-116.45 46.23,-116.01 46.2,-116.44 45.86,-116.79"
+                ],
+                "cFIPS": "053047 053051",
+                "cUGC": "WAC047 WAC051",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A6A99C.FloodWarning.125844C24A44WA.OTXFLSOTX.5115cef9bab5acba14d57c4305e98ceb"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:51PM PDT until further notice by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 1215 PM PDT SUNDAY FOR NEZ PERCE...SHOSHONE...LEWIS...BENEWAH... KOOTENAI...LATAH...BONNER...BOUNDARY...GARFIELD...FERRY...SPOKANE... NORTHEASTERN OKANOGAN...WHITMAN...STEVENS...ASOTIN AND PEND OREILLE COUNTIES... * Recent rain and snow melt will result in increased runoff with"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T17:57:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Spokane; Stevens"
+                ],
+                "cPolygon": [
+                    "45.86,-116.79 46,-116.92 46,-117.59 46.62,-117.85 46.59,-118.21 46.87,-117.97 47.26,-117.96 47.26,-117.82 47.83,-117.82 47.93,-118.83 49,-118.84 48.99,-116.05 47.98,-116.05 47.7,-115.72 47.43,-115.75 46.94,-114.98 46.93,-116.33 46.5,-116.45 46.23,-116.01 46.2,-116.44 45.86,-116.79"
+                ],
+                "cFIPS": "053063 053065",
+                "cUGC": "WAC063 WAC065",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A6A99C.FloodWarning.125844C4855CWA.OTXFLSOTX.aa81fa858fb0bd8fdeabf3b5059d9654"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:51PM PDT until March 20 at 8:19AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 1215 PM PDT SUNDAY FOR NEZ PERCE...SHOSHONE...LEWIS...BENEWAH... KOOTENAI...LATAH...BONNER...BOUNDARY...GARFIELD...FERRY...SPOKANE... NORTHEASTERN OKANOGAN...WHITMAN...STEVENS...ASOTIN AND PEND OREILLE COUNTIES... * Recent rain and snow melt will result in increased runoff with"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T08:19:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Whitman"
+                ],
+                "cPolygon": [
+                    "45.86,-116.79 46,-116.92 46,-117.59 46.62,-117.85 46.59,-118.21 46.87,-117.97 47.26,-117.96 47.26,-117.82 47.83,-117.82 47.93,-118.83 49,-118.84 48.99,-116.05 47.98,-116.05 47.7,-115.72 47.43,-115.75 46.94,-114.98 46.93,-116.33 46.5,-116.45 46.23,-116.01 46.2,-116.44 45.86,-116.79"
+                ],
+                "cFIPS": "053075",
+                "cUGC": "WAC075",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A6A99C.FloodWarning.1258450F4B28WA.OTXFLSOTX.07190e4c568b18256f7180cdacf220fb"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:51PM PDT until March 24 at 10:22PM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 1215 PM PDT SUNDAY FOR NEZ PERCE...SHOSHONE...LEWIS...BENEWAH... KOOTENAI...LATAH...BONNER...BOUNDARY...GARFIELD...FERRY...SPOKANE... NORTHEASTERN OKANOGAN...WHITMAN...STEVENS...ASOTIN AND PEND OREILLE COUNTIES... * Recent rain and snow melt will result in increased runoff with"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:51:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-24T22:22:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Asotin"
+                ],
+                "cPolygon": [
+                    "45.86,-116.79 46,-116.92 46,-117.59 46.62,-117.85 46.59,-118.21 46.87,-117.97 47.26,-117.96 47.26,-117.82 47.83,-117.82 47.93,-118.83 49,-118.84 48.99,-116.05 47.98,-116.05 47.7,-115.72 47.43,-115.75 46.94,-114.98 46.93,-116.33 46.5,-116.45 46.23,-116.01 46.2,-116.44 45.86,-116.79"
+                ],
+                "cFIPS": "053003",
+                "cUGC": "WAC003",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A6A744.FloodWarning.125844C444E8WA.OTXFLSOTX.aa4064766ae296c4b6348edb7fe9c8d2"
+                ],
+                "cUpdated": [
+                    "2017-03-18T12:45:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T12:45:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Warning issued March 18 at 12:45PM PDT until March 20 at 6:54AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...A FLOOD WARNING FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 415 PM PDT SUNDAY FOR SOUTHEASTERN LINCOLN COUNTY... Emergency managers report significant flooding in the community of Sprague with water in numerous basements and structures and over roads. Saturated soils and a high water table has prevented water from receding around the community. A break in the rain is expected"
+                ],
+                "cEvent": [
+                    "Flood Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T12:45:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T06:54:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Lincoln"
+                ],
+                "cPolygon": [
+                    "47.83,-117.82 47.26,-117.82 47.26,-118.26 47.8,-118.08 47.8,-118.01 47.81,-118.01 47.84,-117.86 47.84,-117.84 47.83,-117.82"
+                ],
+                "cFIPS": "053043",
+                "cUGC": "WAC043",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WA125844A6058C.FloodAdvisory.125844C4855CWA.PDTFLSPDT.b995d79a6dc2eb1255c6c3b587c441b5"
+                ],
+                "cUpdated": [
+                    "2017-03-18T08:31:00-07:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T08:31:00-07:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Advisory issued March 18 at 8:31AM PDT until March 20 at 8:19AM PDT by NWS"
+                ],
+                "cSummary": [
+                    "...THE URBAN AND SMALL STREAM FLOOD ADVISORY FOR RAIN AND SNOWMELT REMAINS IN EFFECT UNTIL 1045 AM PDT SUNDAY FOR CENTRAL YAKIMA COUNTY... Mild temperatures, breezy winds and several periods of rain along the foothills will cause increased runoff through early Sunday. This may produce small stream flooding...as well as field flooding. Minor"
+                ],
+                "cEvent": [
+                    "Flood Advisory"
+                ],
+                "cEffective": [
+                    "2017-03-18T08:31:00-07:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T08:19:00-07:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Minor"
+                ],
+                "cAreaDesc": [
+                    "Yakima"
+                ],
+                "cPolygon": [
+                    "46.82,-120.56 46.68,-120.54 46.47,-120.45 46.34,-120.16 46.27,-119.98 46.14,-119.88 46.14,-120.59 46.25,-120.96 46.38,-121.01 46.53,-121.03 46.87,-121.02 46.83,-120.65 46.82,-120.56"
+                ],
+                "cFIPS": "053077",
+                "cUGC": "WAC077",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WY125844A6C620.RedFlagWarning.125844C25B10WY.CYSRFWCYS.7bd4395f0c4d6880993a745da69c0227"
+                ],
+                "cUpdated": [
+                    "2017-03-18T14:24:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T14:24:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Red Flag Warning issued March 18 at 2:24PM MDT until March 19 at 7:00PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...Red Flag Warning on Sunday Across Plains of Southeast Wyoming and Western Nebraska Panhandle... .Gusty winds of 25 to 35 mph along with minimum humidities below 15 percent will produce critical fire weather conditions late Sunday morning through early Sunday evening. ...RED FLAG WARNING REMAINS IN EFFECT FROM 11 AM TO 7 PM MDT"
+                ],
+                "cEvent": [
+                    "Red Flag Warning"
+                ],
+                "cEffective": [
+                    "2017-03-18T14:24:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-19T19:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Expected"
+                ],
+                "cSeverity": [
+                    "Severe"
+                ],
+                "cAreaDesc": [
+                    "Platte, Goshen, Central and Eastern Laramie"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "056015 056021 056031",
+                "cUGC": "WYZ310",
+                "cPassed": "no"
+            }
+        },
+        {
+            "entry": {
+                "cID": [
+                    "https://alerts.weather.gov/cap/wwacapget.php?x=WY125844A699FC.FloodWatch.125844C408C0WY.RIWFFARIW.a8db762d367448e4f95e01909812192f"
+                ],
+                "cUpdated": [
+                    "2017-03-18T13:11:00-06:00"
+                ],
+                "cPublished": [
+                    "2017-03-18T13:11:00-06:00"
+                ],
+                "cAuthor": [
+                    "w-nws.webmaster@noaa.gov"
+                ],
+                "cTitle": [
+                    "Flood Watch issued March 18 at 1:11PM MDT by NWS"
+                ],
+                "cSummary": [
+                    "...Significant low elevation snowmelt today through Sunday night will cause flooding in the western valleys... .Temperatures in the 50s are expected across Jackson Hole and Star Valley on Saturday. Low temperatures on Sunday are forecasted to be in the middle 30s to near 40 degrees. Strong southerly winds at 15 to 30 mph are also expected across the"
+                ],
+                "cEvent": [
+                    "Flood Watch"
+                ],
+                "cEffective": [
+                    "2017-03-18T13:11:00-06:00"
+                ],
+                "cExpires": [
+                    "2017-03-20T06:00:00-06:00"
+                ],
+                "cStatus": [
+                    "Actual"
+                ],
+                "cMsgType": [
+                    "Alert"
+                ],
+                "cCategory": [
+                    "Met"
+                ],
+                "cUrgency": [
+                    "Future"
+                ],
+                "cSeverity": [
+                    "Moderate"
+                ],
+                "cAreaDesc": [
+                    "Jackson Hole; South Lincoln County; Star Valley"
+                ],
+                "cPolygon": [
+                    ""
+                ],
+                "cFIPS": "056023 056039",
+                "cUGC": "WYZ013 WYZ023 WYZ027",
+                "cPassed": "no"
+            }
+        }
+    ]
+}

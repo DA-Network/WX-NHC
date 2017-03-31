@@ -1,17 +1,17 @@
 /*
 getZip.js
-written by Zyther of DigitalAddiction
-Alec G
-
+written by Alec Ghazarian -- ZytherXYZ
  */
 
 var fs = require('fs'),
     ht = require('https'),
     gStatic = require('../getStatic');
 
-var tStatic = require("../../json/static.js");
-var temPath = tStatic.files.localcap();
+var tStatic = gStatic.fStatic();
+// var temPath = tStatic.files.localcap;
 //var temPath = "/Users/alecg/Desktop/openShift/wx/nhc/tmp/my.json";
+var ard = require("app-root-dir").get();
+var temPath = ard + "/tmp/my.json";
 var zipLoc = "quiet-escarpment-77456.herokuapp.com";
 
 
@@ -90,7 +90,7 @@ function getZip(zip, cb){
                 thFIPS = obj.entries[i].entry.cFIPS.toString();
                 aFIPS = thFIPS.split(' ');
                 for (j in aFIPS) {
-                    // console.log(aFIPS[j]);
+                    console.log(aFIPS[j]);
                     if (aFIPS[j].toString() === pad(tF.fips_code, 6).toString()) {
                         ret.push("Zip: " + zip + ' ' + obj.entries[i].entry.cSummary + " " +  obj.entries[i].entry.cSeverity +  '.  Expires: ' + obj.entries[i].entry.cExpires);
                         theCount = theCount + 1;

@@ -1,35 +1,60 @@
-var fs = require('fs'),
-    gStatic = require('../getStatic');
+/* 
+getState.js
+Written by Zyther of DigitalAddiction
+*/
 
-var tStatic = gStatic.fStatic();
-var ard = require("app-root-dir").get();
-var theFile = ard + "/tmp/my.json";
+var fs      = require("fs"),
+    tStatic = require("../../json/static.js"),
+    theFile = tStatic.files.localcap();
 
-function getState(input){
-    var obj = JSON.parse(fs.readFileSync(theFile));
-    var theCount = 0;
-    var ret = [];
-    for (i in obj.entries) {
-        if (obj.entries[i].entry.cSeverity.toString() == "Severe"){
-            thUGC = obj.entries[i].entry.cUGC.toString();
-            aUGC = thUGC.split(' ');
-            for (j in aUGC) {
-                if (aUGC[j].startsWith(input)) {
-                    ret.push("State: " + input + ' ' +  obj.entries[i].entry.cSummary + '  Expires: ' + obj.entries[i].entry.cExpires);
-                    theCount = theCount + 1;
-                    break;
-                }
+module.exports = {
+    getState   : function(input, type) {
+            var ret = [], 
+                theCount = 0, 
+                file;
+                
+        
+        if (type === "Severe" || type === "Moderate"){
+        
+            try { 
+                file = JSON.parse(fs.readFileSync(theFile));
+            } catch (ex) {
+                ret.push("Could not parse local alerts.");
+                return ret;
             }
+            
+            
+            for (var i in file.entries) {
+                if (file.entries[i].entry.cSeverity.toString() === type) {
+                    var tUGC = file.entries[i].entry.cUGC.toString();
+                    var aUGC = tUGC.split(" ");
+                    for (var j in aUGC) {
+                        if (aUGC[j].startsWith(input)) {
+                            ret.push("State: " + input + ' ' +  file.entries[i].entry.cSummary + '  Expires: ' + file.entries[i].entry.cExpires);
+                            theCount++;
+                            break;
+                        }
+                    }
+                }
+                
+            }
+            
+            if (theCount === 0) {
+                ret.push("No " + type + " alerts for " + input);
+            } else {
+                ret.push("No more " + type  + " alerts for " + input );
+            }
+            
+            return ret;
+            
+        } else {
+            ret.push("Invalid Severity. Try again.");
+            return ret;
         }
+        
+        
+    }, 
+    getModerate : function(input){
+        
     }
-    if (theCount === 0){
-        ret.push("No severe alerts for " + input);
-    }
-    else {
-    ret.push("No more alerts for " + input);
-    }
-    return(ret);
-    
 }
-
-exports.getState = getState;
