@@ -55,6 +55,7 @@ module.exports = {
         
     }, 
     getModerate : function(input){
-        
+        //do something with input
+        return input;
     }
 }

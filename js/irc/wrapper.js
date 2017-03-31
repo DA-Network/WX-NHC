@@ -9,7 +9,6 @@
 
 var bot = require('./client'),
     setFeed     =   require("../set/setFeed"),
-    gStatic     =   require('../getStatic'),
     getAll      =   require('../get/getAll'),
     getNHC      =   require('../get/getNHC'),
     getState    =   require("../get/getState"),
@@ -25,8 +24,9 @@ var tStatic    =   require("../../json/static.js");
 bot.connect(function(){
   console.log("Connected to IRC.");
   // identify
-  bot.say(tStatic.connect.nickserv, tStatic.connect.identify);
-    
+  setTimeout(function(){
+      bot.say(tStatic.connect.nickserv, tStatic.connect.identify);
+  }, 20000);
 });
 
 
@@ -39,6 +39,7 @@ bot.addListener('error', function(mes){
 setInterval(function(){
   setFeed.setFeed(function(data){
     // bot.say(tStatic.connect.channel, data);
+    console.log(data);
   });
 }, tStatic.options.gettime);
 
@@ -66,6 +67,7 @@ bot.addListener('message', function(from, to, message){
         bot.say(tStatic.connect.channel, tAll[i]);
     }
     */
+    getAll.getNothing();
     bot.say(tStatic.connect.channel, "This function has been temporarily disabled.");
   }
   
@@ -83,15 +85,15 @@ bot.addListener('message', function(from, to, message){
   if (tMessage.startsWith("!WX-STATE")) {
     var tMess = tMessage.split(' ');
     var tSt = getState.getState(tMess[1].toString(), "Severe");
-    for (i in tSt) {
-        bot.say(tStatic.connect.channel, tSt[i]);
+    for (var si in tSt) {
+        bot.say(tStatic.connect.channel, tSt[si]);
     }
   }
   if (tMessage.startsWith("!WX-M")) {
     var tMess1 = tMessage.split(' ');
     var tStM = getState.getState(tMess1[1].toString(), "Moderate");
-    for (i in tStM) {
-        bot.say(tStatic.connect.channel, tStM[i]);
+    for (var mi in tStM) {
+        bot.say(tStatic.connect.channel, tStM[mi]);
     }
   }
   
@@ -103,13 +105,13 @@ bot.addListener('message', function(from, to, message){
       if (r) {
         getForecast.getForecast(tMess2[1].toString(), function(ddd){
           bot.say(tStatic.connect.channel, ddd);
-          for (i in d) {
-            bot.say(tStatic.connect.channel, d[i]);
+          for (var zi in d) {
+            bot.say(tStatic.connect.channel, d[zi]);
           }
         });
         
       } else {
-          bot.say(tStatic.connect.channel, d[i]);
+          bot.say(tStatic.connect.channel, d[0]);
       }
     });
     
@@ -132,6 +134,11 @@ bot.addListener('message', function(from, to, message){
   
   
   
+});
+
+// catch errors instead of dying
+bot.addListener('error', function(message) {
+    console.log('error: ', message);
 });
 
 module.exports = bot;

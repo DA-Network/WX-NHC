@@ -6,8 +6,7 @@ Alec G
  */
 
 var fs = require('fs'),
-    ht = require('https'),
-    gStatic = require('../getStatic');
+    ht = require('https');
 
 var tStatic = require("../../json/static.js");
 var temPath = tStatic.files.localcap();
@@ -86,10 +85,10 @@ function getZip(zip, cb){
 
             var obj = JSON.parse(fs.readFileSync(temPath));
 
-            for (i in obj.entries) {
-                thFIPS = obj.entries[i].entry.cFIPS.toString();
-                aFIPS = thFIPS.split(' ');
-                for (j in aFIPS) {
+            for (var i in obj.entries) {
+                var thFIPS = obj.entries[i].entry.cFIPS.toString();
+                var aFIPS = thFIPS.split(' ');
+                for (var j in aFIPS) {
                     // console.log(aFIPS[j]);
                     if (aFIPS[j].toString() === pad(tF.fips_code, 6).toString()) {
                         ret.push("Zip: " + zip + ' ' + obj.entries[i].entry.cSummary + " " +  obj.entries[i].entry.cSeverity +  '.  Expires: ' + obj.entries[i].entry.cExpires);

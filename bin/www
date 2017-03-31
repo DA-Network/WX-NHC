@@ -1,5 +1,9 @@
 #!/usr/bin/env node
 
+
+/*eslint-disable*/
+/* bin/www via express gen */
+
 /**
  * Module dependencies.
  */

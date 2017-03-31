@@ -1,8 +1,8 @@
 {
   "name": "nhc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An IRC client for weather updates",
-  "main": "app.js",
+  "main": "bin/www",
   "dependencies": {
     "app-root-dir": "^1.0.2",
     "async": "^0.2.10",
@@ -24,6 +24,6 @@
     "test": "node bin/www",
     "start": "node bin/www"
   },
-  "author": "",
+  "author": "ZytherXYZ",
   "license": "MIT"
 }

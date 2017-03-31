@@ -121,7 +121,8 @@ exports.setFeed = function(cb) {
                         cPolygon    : tPolygon,
                         cFIPS       : tFIPS,
                         cUGC        : tUGC,
-                        cPassed     : 'no'
+                        cPassed     : 'no',
+                        cCertainty  : tCertainty
                         }
                     });
                     

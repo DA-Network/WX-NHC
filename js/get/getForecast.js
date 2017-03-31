@@ -4,8 +4,7 @@ getForecast.js
  */
 
 var F = require('forecast.io'),
-    H = require('http'),
-    util = require('util');
+    H = require('http');
 
 // http://maps.googleapis.com/maps/api/geocode/json?address=
 function getLatLong(zip, cb){
@@ -68,7 +67,7 @@ function getForecast(zip, cb) {
                 })
                 //return cb(d.results[0].geometry.location, true);
             } else {
-                
+                // do nothing
             }
         } else { 
             return cb(d, false);

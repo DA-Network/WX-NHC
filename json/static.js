@@ -1,3 +1,6 @@
+var ard = require("app-root-dir").get(),
+    lCap = ard + "/tmp/my.json";
+
 module.exports = {
     "connect"   : {
         "useirc"    : "yes",
@@ -7,7 +10,7 @@ module.exports = {
         "channel"   : "#WX",
         "nickserv"  : "nickserv",
         "identify"  : "identify da123",
-        "flooddelay": 3000
+        "flooddelay": 6000
     },
     
     "messages" : {
@@ -18,8 +21,7 @@ module.exports = {
     },
     "files"     : {
         "localcap"  : function(){
-            var ard = require("app-root-dir").get();
-            return ard + "/tmp/my.json";
+            return lCap;
         }
     },
     "urls"      : {
