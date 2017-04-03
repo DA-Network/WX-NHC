@@ -4,6 +4,7 @@
 * wrapper for the IRC client
 * 
 * WRITTEN BY ZYTHER OF DIGITALADDICTION
+* NOW OBSOLETE, USING irc-framework VIA kIRC.js INSTEAD
 *
 */
 

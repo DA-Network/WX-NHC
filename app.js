@@ -6,7 +6,7 @@
 * BY ZYTHER 
 * MAJOR REWRITE 03/16/17
 */
-
+/*eslint-disable*/
 
 // includes
 
@@ -42,7 +42,8 @@ if (typeof String.prototype.startsWith != 'function') {
 
 
 // connect to IRC
-var ircClient = require("./js/irc/wrapper");
+// use irc-framework instead!! 04/03/17
+var ircClient = require("./js/irc/kIRC");
 
 app.set("views", path.join(__dirname, 'views'));
 app.set("view engine", "ejs");

@@ -13,10 +13,12 @@
     "express": "^3.2.6",
     "forecast.io": "0.0.11",
     "irc": "^0.5.2",
+    "irc-framework": "^2.6.1",
     "morgan": "^1.8.1",
     "request": "^2.81.0",
     "serve-favicon": "^2.4.1",
     "socket.io": "^0.9.17",
+    "string": "^3.3.3",
     "xml2js": "^0.4.17"
   },
   "devDependencies": {},

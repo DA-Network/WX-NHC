@@ -1,3 +1,6 @@
+/* 
+* NOW OBSOLETE, USING irc-framework VIA kIRC.js INSTEAD
+*/
 var irc = require('irc'),
     tStatic = require("../../json/static.js");
 
