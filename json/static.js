@@ -1,14 +1,20 @@
 var ard = require("app-root-dir").get(),
-    lCap = ard + "/tmp/my.json";
+    lCap = ard + "/tmp/my.json",
+    name = "WX-NHC2",
+    channel = "#wxtest";
+    
+    if (process.env.OPENSHIFT_NODEJS_IP) {
+        name    = "WX-NHC";
+        channel = "#wx";
+    }
 
 module.exports = {
     "connect"   : {
         "useirc"    : "yes",
         "server"    : "irc.digitaladdiction.info",
-        "name"      : "WX-NHC",
-        "nametest"  : "WX-NHC2",
+        "name"      : name,
         "pw"        : "da123",
-        "channel"   : "#WX",
+        "channel"   : channel,
         "nickserv"  : "nickserv",
         "identify"  : "identify da123",
         "flooddelay": 8500
